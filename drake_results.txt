@@ -1,0 +1,565 @@
+WARNING:tensorflow:From /usr/local/lib/python3.6/dist-packages/gpt_2_simple/src/sample.py:17: where (from tensorflow.python.ops.array_ops) is deprecated and will be removed in a future version.
+Instructions for updating:
+Use tf.where in 2.0, which has the same broadcast rule as np.where
+Loading checkpoint models/124M/model.ckpt
+INFO:tensorflow:Restoring parameters from models/124M/model.ckpt
+  0%|          | 0/1 [00:00<?, ?it/s]Loading dataset...
+100%|██████████| 1/1 [00:00<00:00,  3.08it/s]
+dataset has 55540 tokens
+Training...
+[10 | 28.82] loss=2.47 avg=2.47
+[20 | 51.26] loss=2.75 avg=2.61
+[30 | 74.43] loss=2.75 avg=2.66
+[40 | 98.78] loss=2.29 avg=2.56
+[50 | 123.44] loss=2.34 avg=2.52
+[60 | 147.29] loss=2.12 avg=2.45
+[70 | 171.30] loss=1.92 avg=2.37
+[80 | 195.70] loss=1.90 avg=2.31
+[90 | 219.98] loss=1.18 avg=2.18
+[100 | 244.12] loss=1.27 avg=2.09
+[110 | 268.38] loss=1.21 avg=2.00
+[120 | 292.70] loss=0.67 avg=1.88
+[130 | 317.04] loss=0.42 avg=1.76
+[140 | 341.37] loss=0.48 avg=1.67
+[150 | 365.76] loss=0.31 avg=1.57
+[160 | 390.12] loss=0.21 avg=1.48
+[170 | 414.48] loss=0.33 avg=1.40
+[180 | 438.78] loss=0.23 avg=1.33
+[190 | 463.09] loss=0.11 avg=1.26
+[200 | 487.35] loss=0.11 avg=1.20
+======== SAMPLE 1 ========
+ I goin' with the bands at the end of summer
+I need some rest, I need some sleep
+I need some love, I need some time
+I need a little something more
+And I just don't see it
+Just don't see it
+Yeah, I know I'm a good nigga, I got a pretty face
+I got a good body
+I got a really big one
+Yeah, I been down a lot, I got along the way
+I got high hopes, I got aspirations, I got more to come
+I need approval, I need approval
+It's getting lost in the shuffle, it's getting lost in the shuffle
+I can't help it, I'm feeling paralyzed
+I'm trying to get my head around this, this thing
+It's so hard for me to do these things alone
+It's turning me on, it's turning me on
+It's turning me on Yeah, I know I'm a good nigga, I got a pretty face
+I got a pretty body
+I got a really big one
+Yeah, I been slippin' around like a rookie ponecten
+When I got it I think I can make it
+I'm tryna keep it real
+I'm tryna keep it logical
+Yeah I be like, "Who you going to call?", say it with a bit of a twist
+Yeah, I'm somebody go, I'm goin' go, I'm goin' go, I'm goin' go
+I'm feelin' myself now, I'm tryna let it drop
+I'm talkin' might be too aggressive, might be too aggressive
+Actin' be bemused at the prospect, I'm just sayin'
+Yeah, I be like, "Who you going to call?", say it with a bit of a twist
+Yeah, I'm somebody go, I'm goin' go, I'm goin' go
+I'm talkin' might be too aggressive, might be too aggressive
+Actin' bemused at the prospect, I'm just sayin'
+Yeah, I be sayin'
+Yeah, I'm goin' go, I'm goin' go, I'm goin' go
+I'm talkin' might be too aggressive, might be too aggressive
+Actin' bemused at the prospect, I'm just sayin'
+Yeah, I be sayin'
+Yeah, I'm bein' goin' go, I'm goin' go, I'm goin' go
+I'm talkin' might be too aggressive, might be too aggressive
+Gotta keep an open mind, yeah, I'm not picky. I don't drive, I don't take drugs, I just do what's right
+People misinterpreting my act like that Straight, straight and straight
+You play the victim now, no forgiveness for the man
+You got a bad hip, think I'll be okay
+Still fakes like this all the fame like that, I'mma have it
+Got a pretty face, think I'll be okay
+Still fakes like this all the fame like that, I'mma have it
+Still fakes like this all the fame like that, I'mma have it
+Still fakes like this all the fame like that, I'mma have it
+Still fakes like this all the fame like that, I'mma have it
+Still fakes like this all the fame like that, I'mma have it
+Still fakes like this all the fame like that, I'mma have it
+Still fakes like this all the fame like that, I'mma have it
+Still fakes like this all the fame like that, I'mma have it It's only fair, boy, we really make for idealistic couple
+I'm straight, I'm a motherfuckin' prodigy
+And I'm only gettin' better by the minute
+That's why I need a little breathing room
+For that to happen, I need a little bit of money
+And grace to give
+So help me God, may I just maya help yo' baby
+Type, just maya please
+Type, just maya please
+Type, just maya please
+Based on what I gotta say
+Say my name and hope you like it
+Word to George Takei, just maya help
+[Hook] I'm tryna put it together
+I want this place y'ell at the Chrysler Center
+Yeah, I know that they up in that mall
+Yeah, I know that they up in that mall
+Yeah, I know that they up in that mall
+Yeah, I know that they up in that mall
+Yeah, I know that they up in that mall
+Yeah, I know that they up in that mall
+Yeah, I know that they up in that mall
+Yeah, I know that they up
+
+[210 | 523.40] loss=0.14 avg=1.14
+[220 | 547.59] loss=0.09 avg=1.09
+[230 | 571.81] loss=0.07 avg=1.04
+[240 | 596.08] loss=0.08 avg=1.00
+[250 | 620.40] loss=0.05 avg=0.95
+Saving checkpoint/run1/model-250
+[260 | 647.34] loss=0.06 avg=0.92
+[270 | 671.74] loss=0.08 avg=0.88
+[280 | 696.05] loss=0.07 avg=0.85
+[290 | 720.24] loss=0.05 avg=0.82
+[300 | 744.38] loss=0.06 avg=0.79
+[310 | 768.58] loss=0.07 avg=0.76
+[320 | 792.81] loss=0.05 avg=0.73
+[330 | 817.03] loss=0.07 avg=0.71
+[340 | 841.31] loss=0.05 avg=0.69
+[350 | 865.60] loss=0.05 avg=0.67
+[360 | 889.90] loss=0.04 avg=0.65
+[370 | 914.23] loss=0.05 avg=0.63
+[380 | 938.59] loss=0.06 avg=0.61
+[390 | 962.90] loss=0.04 avg=0.59
+[400 | 987.19] loss=0.04 avg=0.57
+======== SAMPLE 1 ========
+ fucking and you know it
+And I'm still bein' haloin' women
+You know the type of guy she is to a fault
+When they see me they say thats who gone ham
+That's the wrong thing to do
+Go ham if you love me Ho, I know you love me
+Honey, I'm the bad shit
+I'm how you feel? Yeah, I know you love me
+And I can change your mind
+But is it right for you? Yeah, I know you love me
+And I can change your mind
+But is it right for you? Yeah, I know you love me
+And I can change your mind
+But is it right for you? Yeah, I know You and me hang in the country, hangin' with nobody
+We done taken a day off
+You know how that goes
+We done taken a day off
+We done taken a day off
+Yeah I know, well I'm just sayin'
+But you see me doin' well, too
+And you know I can't be choosin'
+Go in the other direction, too
+I never tongue kiss her and caselaw a
+I'm keepin' the loose
+And she askin' me how I get around
+And I can't be wrong
+I'm just sayin'
+But you see me doin' well, too
+And you know I can't be choosin'
+Go in the other direction, too
+I never tongue kiss her and caselaw a
+I'm keepin' the stick, don't touch me
+I never tongue kiss her and caselaw
+I'll never tongue kiss her, I swear
+I give you my fortune
+And you can't pocket it
+'Cause we't always have time
+(Money flow)
+
+Lipstick 'n concealer
+Shoes 'n concealer
+Fulfillment 'n concealer
+And more sex
+'Cause we don't always have time
+Cause we don't always have desire
+'Cause we don't always have desire
+That's why you see me fuck
+Fulfillment 'n concealer
+Shoes 'n concealer
+Fulfillment 'n concealer
+And more sex
+'Cause we don't always have time
+Cause we don't always have desire
+'Cause we don't always have desire
+That's why you see me take care of me
+Leavin' is underground
+And I'm playin' with you
+Playing with you
+Paid for sex
+And now your a liar
+Fuckin' causes panic
+And we don't rest until we are financially secure
+'Cause we don't always have time
+Voila! you get what you pay for
+And if we don't, then what is?
+Voila! you get what you pay for
+And if we don't, then what is?
+Precios and chargiunt
+You keep getting cuz we just broke even
+And if we don't reach a breaking even, then what is?
+Pcioss that cash on the counter like we visa versa
+I'm tired of all of these niggas
+I'm tired of all of these hoes
+Lil' bitch Yeah, here's another one
+Shoutout to Niko, Bay Rat, and Benzes '1'
+We ain't even got day and night
+What we done for the cause, what we done for the cause
+You done for the cause, what you done for the cause
+Uhh, cock up your fucking wall
+Here's what we done for the cause
+You done for the cause, what you done for the cause
+Uhh, cock up your fucking wall
+Fuck all the opps right now
+Coming from all of them places, where they the fuck us
+Now we're here, take a seat, wait a little while
+Tell 'em to rise, to let you know closer
+All of our phones line up, closer
+Here's what we done for the cause
+You done for the cause, what you done for the cause
+Uhh, cock up your fucking wall
+Listen, you gon' hear this shit shit for the cause
+All of our phones line up, closer
+Here's what we done for the cause, you gon' hear this shit for the cause
+All of our phones line up, closer
+What we done for the cause, what you done for the cause
+Uhh, cock up your fucking wall
+Fuck all the opps right now
+Coming from all of them places, where they the fuck us
+Now we're here, take a seat, wait a little while
+Tell 'em to rise, to let you know closer
+All of our phones line up, closer
+Here's what we done for the cause, you gon' hear this shit for the cause
+All of our phones line up, closer
+What we done for the
+
+[410 | 1022.16] loss=0.04 avg=0.56
+[420 | 1046.36] loss=0.04 avg=0.54
+[430 | 1070.56] loss=0.03 avg=0.53
+[440 | 1094.76] loss=0.03 avg=0.52
+[450 | 1118.97] loss=0.04 avg=0.50
+[460 | 1143.17] loss=0.02 avg=0.49
+[470 | 1167.40] loss=0.04 avg=0.48
+[480 | 1191.63] loss=0.04 avg=0.47
+[490 | 1215.93] loss=0.04 avg=0.45
+[500 | 1240.21] loss=0.04 avg=0.44
+Saving checkpoint/run1/model-500
+WARNING:tensorflow:From /tensorflow-1.15.2/python3.6/tensorflow_core/python/training/saver.py:963: remove_checkpoint (from tensorflow.python.training.checkpoint_management) is deprecated and will be removed in a future version.
+Instructions for updating:
+Use standard file APIs to delete files with this prefix.
+[510 | 1266.57] loss=0.04 avg=0.43
+[520 | 1290.86] loss=0.03 avg=0.42
+[530 | 1315.14] loss=0.04 avg=0.41
+[540 | 1339.46] loss=0.05 avg=0.41
+[550 | 1363.73] loss=0.03 avg=0.40
+[560 | 1388.00] loss=0.04 avg=0.39
+[570 | 1412.29] loss=0.04 avg=0.38
+[580 | 1436.56] loss=0.03 avg=0.37
+[590 | 1460.83] loss=0.03 avg=0.37
+[600 | 1485.11] loss=0.04 avg=0.36
+======== SAMPLE 1 ========
+ mean that it's me or yours
+I should probably let the other one run for now
+I've been dealing with some fuckin' leg wounds
+That leg ain't healed, it's lying in wait
+Bet on shots for twenty Gucci store girls
+I'm gettin' too strung out on compliments
+Started a label niggas wanting results
+All them niggas wantin' money, all these niggas wantin' fame
+They talking to you, you've got this da other one bout to knock down
+Who's gettin' this shit from the first show up?
+This is all very na na na
+I'm at the top, I'm only sayin' once
+Damn, okay, from this side
+Lookin' at you, you're a good girl
+Looking at you, you're a good girl
+Looking at you, you're a good girl
+Yeah
+(ooh!) Nice try, kept it down
+(ooooh!) Nice try, kept it down
+(ooooh!) You're the girl,
+She knows what she's doing
+(sarcastically)
+Yeah, just like that, yeah
+Keep it down, keep it down
+You're the girl,
+She knows what she's doing
+(sarcastically)
+Yeah, just like that, yeah
+Keep it down, keep it down
+You're the girl,
+She knows what she's doing
+(sarcastically)
+Yeah, just like that, yeah
+Keep it down, keep it down
+You're the girl,
+She knows what she's doing
+(sarcastically)
+Yeah, just like that, yeah
+Keep it down, keep it down
+You're the girl,
+She knows what she's doing
+(sarcastically)
+Yeah, just like that, yeah
+Keep it down, keep it down
+You're the girl,
+She knows what she's doing
+(sarcastically)
+Yeah, just like that, yeah
+Keep it down, keep it down
+You're the girl,
+You know what she's doing
+(sarcastically)
+Yeah, just like that, yeah
+Keep it down, keep it down
+You're the girl,
+You know what she's doing
+(sarcastically)
+Yeah, just like that, yeah
+Keep it down, keep it down
+You're the girl,
+You know what she's doing
+(sarcastically)
+Yeah, just like that, yeah
+Keep it down, keep it down
+You're the girl,
+Yeah, you gettin' too attached
+(yeah, yeah)
+Niggas want to see me get old like I'm Nicki Minaj
+Niggas want to take my place like I'm "Drake"
+I say get old like I'm Drake
+They reply "You fancy? Drake!"
+And that's how they reply to me like I'm Drake
+I'm all night Drake, night, day
+How you get lost in thought, thought that you can't tell me
+I get lost in thought, thought that you can't tell me
+I get lost in thought, think that you can't tell me
+I get lost in thought, thought that you can't tell me
+You an ass, I can tell it! I can tell it!
+I can tell it! How you not only succeed, but also how I am loved over lost
+And shit like that
+I can't get over you, you two aren't the same
+You ain't on it right away, you two ain't working
+You ain't working on it at all, I'm off it right now
+The things that you just said are true
+You two just don't get along
+I can tell that shit, that shit, that shit
+That shit, that shit, that shit
+That shit, that shit, that shit
+That shit, that shit, that shit
+That shit, that shit, that shit
+That shit, that shit, that shit I can't get enough of you niggas
+You don't got it, don't get along
+I can tell that shit, that shit, that shit
+That shit, that shit, that shit
+That shit, that shit, that shit
+That shit, that shit, that shit
+That shit, that shit, that shit
+That shit, that shit, that shit
+That shit, that shit, that shit
+That shit, that shit, that shit I can't get enough of you niggas
+You don't get it, don't get along
+I can tell that shit, that shit, that shit
+That shit, that shit, that shit
+That shit, that shit, that shit
+That shit, that shit, that shit
+That shit, that shit, that shit
+That shit, that shit, that shit
+
+
+[610 | 1519.90] loss=0.04 avg=0.35
+[620 | 1544.12] loss=0.03 avg=0.34
+[630 | 1568.32] loss=0.03 avg=0.34
+[640 | 1592.55] loss=0.03 avg=0.33
+[650 | 1616.76] loss=0.03 avg=0.33
+[660 | 1641.01] loss=0.03 avg=0.32
+[670 | 1665.24] loss=0.03 avg=0.31
+[680 | 1689.46] loss=0.04 avg=0.31
+[690 | 1713.67] loss=0.03 avg=0.30
+[700 | 1737.93] loss=0.04 avg=0.30
+[710 | 1762.16] loss=0.04 avg=0.29
+[720 | 1786.35] loss=0.03 avg=0.29
+[730 | 1810.57] loss=0.03 avg=0.28
+[740 | 1834.84] loss=0.03 avg=0.28
+[750 | 1859.03] loss=0.03 avg=0.27
+Saving checkpoint/run1/model-750
+[760 | 1885.40] loss=0.03 avg=0.27
+[770 | 1909.71] loss=0.03 avg=0.26
+[780 | 1933.98] loss=0.03 avg=0.26
+[790 | 1958.22] loss=0.03 avg=0.25
+[800 | 1982.45] loss=0.03 avg=0.25
+======== SAMPLE 1 ========
+ go
+I got 40 in the studio, every night, late night
+Gotta watch that shit, don't want to make him sicker
+That's my vendetta, keep this shit together Goddamn, we ain't even gotta scam
+Cocaine Coupe, we ain't even got a scale
+Used to flip apps, now that old plug murked
+Ain't a damn thing changed, you can still get the work, ay Just hold on one moment and someone will be right with you We're sorry, you have reached a number
+That has been disconnected or is no longer in service Yeah I remember how I went to Louis V with Haf'
+Watched them spread ten thousand dollars on the glass
+I never ever thought I'd see that in my life
+Now I'm in the East 'cause my boys are gettin' right, man
+I was on TV makin' fifty racks a year
+After helpin' mama out the shit would disappear
+I am not a man, I can't do this on my own
+So I started askin' them if they would put me on
+And they did put me on, yeah
+They did put me on
+Now we in the basement and we workin' on the phone
+Now we in the basement and we workin' on the phone, line
+Line blowin' up
+Workin' on the phones
+Now we in the basement and we workin' on the phones
+But I just couldn't do it, had to leave that shit alone, man Blowin' up
+Line blowin' up, they need the whole thing shit
+Blowin' up
+My niggas really need the whole thing shit
+Really need the whole thing shit
+Really need the whole thing shit I don't deserve it
+I got to the top, I'm the man
+I'm the man
+The other night, a girl came up, told me wow, I'm really on the rise
+And I don't need any addressing, I got the whole thing shit
+She said she liked my other stuff, well of course she'll mention it to me
+I don't deserve her, not even a smidgen better
+I got to the top, I'm the man
+I'm the man
+The other night, she came up, told me wow, I'm really on the rise
+And I don't need any addressing, I got the whole thing shit
+She said she liked my other stuff, well of course she'll mention it to me
+I don't deserve her, not even a smidgen better
+I got to the top, I'm the man
+I'm the man
+The other night, she came up, told me wow, I'm really on the rise
+And I don't need any addressing, I got the whole thing shit
+She said she liked my other stuff, well of course she'll mention it to me
+I don't deserve her, not even a smidgen better
+I got to the top, I'm the man
+I'm the man
+The other night, she came up, told me wow, I'm really on the rise
+And I don't need any addressing, I got the whole thing shit
+She said she liked my other stuff, well of course she'll mention it to me
+I don't deserve her, not even a smidgen better
+I got to the top, I'm the man
+I'm the man
+The other night, she came up, told me wow, I'm really on the rise
+And I don't need any addressing, I got the whole thing shit
+She said she liked my other stuff, well of course she'll mention it to me
+I don't deserve her, not even a smidgen better
+I got to the top, I'm the man
+I'm the man
+The other night, she came up, told me wow, I'm really on the rise
+And I don't need any addressing, I got the whole thing shit
+She said she liked my other stuff, well of course she'll mention it to me
+I don't deserve her, not even a smidgen better
+I got to the top, I'm the man
+I'm the man
+The other night, she came up, told me wow, I'm really on the rise
+And I don't need any addressing, I got the whole thing shit
+She said she liked my other stuff, well of course she'll mention it to me
+I don't deserve her, not even a smidgen better
+I got to the top, I'm the man
+I'm the man
+Back up, back up, back up and you know I got a really big team
+Back up, back up, back up and you know I got a really big team Back up, back up, back up and you know I got a really big team Man what a time
+to be alive
+
+[810 | 2017.36] loss=0.03 avg=0.25
+[820 | 2041.51] loss=0.03 avg=0.24
+[830 | 2065.66] loss=0.03 avg=0.24
+[840 | 2089.82] loss=0.03 avg=0.24
+[850 | 2114.01] loss=0.02 avg=0.23
+[860 | 2138.23] loss=0.03 avg=0.23
+[870 | 2162.44] loss=0.03 avg=0.22
+[880 | 2186.67] loss=0.03 avg=0.22
+[890 | 2210.91] loss=0.03 avg=0.22
+[900 | 2235.20] loss=0.03 avg=0.22
+[910 | 2259.49] loss=0.02 avg=0.21
+[920 | 2283.77] loss=0.03 avg=0.21
+[930 | 2308.03] loss=0.02 avg=0.21
+[940 | 2332.25] loss=0.03 avg=0.20
+[950 | 2356.45] loss=0.03 avg=0.20
+[960 | 2380.56] loss=0.03 avg=0.20
+[970 | 2404.68] loss=0.03 avg=0.19
+[980 | 2428.81] loss=0.03 avg=0.19
+[990 | 2452.98] loss=0.03 avg=0.19
+[1000 | 2477.15] loss=0.03 avg=0.19
+Saving checkpoint/run1/model-1000
+'Cause you're a good girl and you know it
+I know exactly who you could be Oh just hold on we're going home (goin' home)
+Just hold on we're going home (goin' home)
+It's hard to do these things alone (things alone)
+Just hold on we're going home (goin' home)
+Ho oh (goin' home) (Hold on, hold on)
+(Hold on) [Drake - Chorus]
+All I care about is money and the city that I'm from
+I'ma sip until I feel it, I'ma smoke it till it's done
+And I don't really give a fuck, and my excuse is that I'm young
+And I'm only getting older somebody shoulda told ya I'm on one
+Yeah, fuck it, I'm on one
+Yeah, I said I'm on one
+Fuck it, I'm on one
+A strong one Two white cups and I got that drink
+It could be purple, it could be pink
+Depending on how you mix that shit
+Money that we got, never get that shit Cause I'm on one
+F-ck it I'm on one
+Oh yeah
+Oh yeah You know what I'm like, oh yes, oh yeah
+Oh yes, Oh yeah
+Oh yes, Oh yeah You know what I'm sippin, I teach you how to mix it
+But you're the only one, cause I don't trust these bitches
+I don't, I don't trust these bitches
+They might catch me slippin'
+So you're the only one, cause I don't trust these bitches
+They might, they might catch me slippin' and put in something different
+So your the only one Cause I don't trust these bitches
+I don't, I don't trust these bitches
+They might catch me slippin'
+So you're the only one Oh ooooh, trust issues
+Oh ooooh, trust issues
+Oh ooooh, trust issues
+Oh ooo oooo oooo ooh Oh yeah, oh yeah
+Lets call up on drinkin, lets all get wasted
+On drinkin', lets all get faded Uh Drizzy Drake, check me out
+Coming live from the the muthaf-cking north side
+Kick game, run game, run it real good
+But never ever have my bitches sittin' courtside
+Same nigga that you knew way back when
+You actin' like it's somebody you don't know
+Tell me how the f-ck we supposed to stay friends
+When you got a bunch of feelings that you don't show
+I can tell, I can tell, I can tell certain people don't like me no more
+New shit don't excite me no more
+Guess they don't really make 'em like me no more
+Uh, you can look me in my eyes and see I ain't myself
+Cause if I was what y'all created then I'd hate myself
+But still, let them girls in,
+And tell em all leave their cell phones on the table where we see 'em
+I'm all day with it man, AM to the PM
+Niggas hatin', I just wish they would say it when I see em all That's that shit that drives me crazy
+And it's all that I've been gettin' lately
+And it's probably why I'm scared to put the time in
+Women wanna f-ck like their me and I'm them
+Looking for some things and I think I can find it in you, in you Oh ooooh, trust issues
+Oh ooooh, trust issues
+Oh ooooh, trust issues
+Oh oooo oooo oooo ooh Oh yeah, oh yeah
+Lets call up on drinkin, lets all get wasted
+On drinkin', lets all get faded
+Oh yeah, oh yeah
+ooooh ooooh trust issues When a good thing goes bad it's not the end of the world
+It's just the end of a world, that you had with one girl
+And she's the reason it happened, but she's overreacting
+And it's all because she don't want things to change So cry if you need to, but I can't stay to watch you
+That's the wrong thing to do
+Touch if you need to, but I can't stay to hold you
+That's the wrong thing to do
+Talk if you need to, but I can't stay to hear you
+That's the wrong thing to do
+Cause you'll say you love me, and I'll end up lying
+And say I love you too But I need someone different
+You know it, oh ho, you know it
+Oh ho, you know it, we both know it
+I need someone different
+You know it, oh

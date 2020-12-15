@@ -1,0 +1,472 @@
+WARNING:tensorflow:From /usr/local/lib/python3.6/dist-packages/gpt_2_simple/src/sample.py:17: where (from tensorflow.python.ops.array_ops) is deprecated and will be removed in a future version.
+Instructions for updating:
+Use tf.where in 2.0, which has the same broadcast rule as np.where
+Loading checkpoint models/124M/model.ckpt
+INFO:tensorflow:Restoring parameters from models/124M/model.ckpt
+  0%|          | 0/1 [00:00<?, ?it/s]Loading dataset...
+100%|██████████| 1/1 [00:00<00:00,  1.92it/s]
+dataset has 87478 tokens
+Training...
+[10 | 28.41] loss=3.61 avg=3.61
+[20 | 50.16] loss=3.21 avg=3.41
+[30 | 72.27] loss=3.09 avg=3.30
+[40 | 94.88] loss=3.15 avg=3.26
+[50 | 118.11] loss=2.50 avg=3.11
+[60 | 142.30] loss=2.86 avg=3.06
+[70 | 166.80] loss=2.10 avg=2.92
+[80 | 190.67] loss=2.26 avg=2.84
+[90 | 214.67] loss=1.68 avg=2.70
+[100 | 239.00] loss=1.42 avg=2.57
+[110 | 263.23] loss=1.41 avg=2.46
+[120 | 287.39] loss=1.64 avg=2.39
+[130 | 311.56] loss=1.48 avg=2.31
+[140 | 335.79] loss=1.35 avg=2.24
+[150 | 360.06] loss=0.91 avg=2.14
+[160 | 384.37] loss=0.74 avg=2.05
+[170 | 408.69] loss=0.58 avg=1.96
+[180 | 433.01] loss=0.40 avg=1.86
+[190 | 457.33] loss=0.81 avg=1.80
+[200 | 481.67] loss=0.29 avg=1.72
+======== SAMPLE 1 ========
+ time in the morning and then I fall asleep and I woke up that morning and he ran for mayor
+He's white, he's a millionaire, he signed his contract and he's a millionaire
+Yeah you bet, Kim, but you ain't white
+You're stuck in a white van, with the windows up
+And noiselessly looking down at the sky
+You can't see, you can only smell the wind
+And you can't make that big a dent in the ground
+Cause you're only feet from me now
+Yeah look at my shoes, they was S'mem shoes
+Maybe I should've pulled a stunt
+Instead of just sitting on the porch with that stupid Tommy Hilcher tape
+Cause I'd knock your trailer out and roast your place
+So you might wanna try something
+And I ain't gotta stop the flow
+Cause your stomachs are growing impatient
+And your spirits are light
+Cause you can't grow dry feetin' this shit
+Plus you're starting to feel like a snobby model
+Plus you feel like Elway when you're dehydrated
+So they call me the K-Fed
+Yeah you're right, they changed my whole outlook
+Plus you feel like a fan when you hear I'm bald
+Plus you know the song by Phil Collins When I was growing up, there wasn't a thing called rap
+There wasn't a word that was legal tender
+Drugs didn't even exist in elementary school
+Nobody gave a shit about verse 1
+And verse 7 got even keeled
+You were prepared to do some brutal harm to these lil' bastards
+Now I don't mean to be mean but fuck it
+I risked a career blow my brains out
+Me and Eminem were sitting at the table talking
+I take it you took it into consideration
+That you were to be his bodyguard while he slept with fellow soldier
+So how did it go that we ended up in this fucking ditch
+So I took it upon myself to clean up the mess I'd made
+Once I to lay it and make some new friends
+I'd be lying if I didn't credit Jade Helm with saving my life
+I've risked a career blow my brains out
+Me and Eminem were sitting at the table talking
+I take it you took it upon yourself to tear it up
+Well I think you have just entered the next catacly
+Complex where you take great pleasure in lampooning a niggas civilian
+Dawthon see I love my enemy
+Bout time to show off my enormous cage
+And give him the motherfuckin' breast
+And bask in the fact that I'm not as ridiculous as you thought I was
+Ironic parading a brutalized version of myself
+Now you can take your hands off the table
+And put your girlfriend up front
+And let me know that your stepson isn't wearing
+Now let's just pretend that this is an episode now
+You still ain't gotten over the fact that I ain't as insane as you thought
+I still think you're insane my lady you're amazing
+And if you had the balls to rip the program
+Show me where you were once you was
+And I would never again condone what you did
+How could you let this celebrity continue to grow
+And how could he be so out in public
+That you let yourself go without saying a word
+And I don't know how you could ever be as big of a fan as he
+I think he's sick of you but for the love of god
+Give him the ball and go after the messenger
+When you're caught sending amped bombs of smoke
+Smoke you're returning fire from where you were
+And you were sending amped messages to deign to explode
+And just know there's a way out
+And whatever may yet lurk in the grass, weeds or flowers
+Feel free to touch my body with your tongue
+But remember, it's a beautiful thing
+One moment you're gross and the next you're beautiful
+Work with me and you'll never tire
+Your energy is spreading like wild fire
+You reach for my onion rings to your temple
+'Cause life throws fits and it's rare that I get burned
+But I'm lucky enough to be the only one that gets the hell outta
+My thoughts are with my own hands and emotions come to life
+Even when the blows are violent
+I'm still as calm and rational as I ever was
+My thoughts are with my own hands and emotions come to life
+Even when the blows are violent I'm still as calm and rational as I ever was
+My thoughts are with my own hands and emotions come to mind
+When I'm reminiscing how I was when I was just a babe
+When I was in my late thirties and fuzzy afternoons
+It's a different baby, how can I look youthful?
+Young people don't get it, they think I'm 'bout 'till I die
+What? Fifteen
+
+[210 | 518.24] loss=0.50 avg=1.65
+[220 | 542.56] loss=0.24 avg=1.58
+[230 | 566.86] loss=0.17 avg=1.51
+[240 | 591.16] loss=0.15 avg=1.45
+[250 | 615.48] loss=0.16 avg=1.39
+Saving checkpoint/run1/model-250
+[260 | 642.47] loss=0.12 avg=1.34
+[270 | 666.88] loss=0.13 avg=1.29
+[280 | 691.14] loss=0.11 avg=1.24
+[290 | 715.36] loss=0.09 avg=1.19
+[300 | 739.65] loss=0.08 avg=1.15
+[310 | 763.98] loss=0.11 avg=1.11
+[320 | 788.30] loss=0.11 avg=1.07
+[330 | 812.65] loss=0.05 avg=1.04
+[340 | 837.04] loss=0.07 avg=1.01
+[350 | 861.41] loss=0.06 avg=0.97
+[360 | 885.79] loss=0.06 avg=0.94
+[370 | 910.21] loss=0.07 avg=0.92
+[380 | 934.58] loss=0.06 avg=0.89
+[390 | 958.96] loss=0.06 avg=0.86
+[400 | 983.28] loss=0.06 avg=0.84
+======== SAMPLE 1 ========
+ you'm really making this up with my own eyes
+But as time passes, things get bizarre
+Look at how much smoke we're breathing
+How many times we reloaded at a time
+How many clips of our a-t-f's stay in the knee-highs
+And stomachs are stuffed with chicken, ham and Italian sausage
+Now how the fuck am I supposed to get from Bozo to you just cause of the way I am?
+I didn't have to, I-I-I hear them little 'emings, they're so similar
+I-I-I hear them motherfuckers'es voices, and they think it's cool
+I go to college and get a GMC (General Motors Corporation)
+Holland get an Audi (A-Tron), then some Beys
+An Alf-Ain who can make me a lyin' dang CD
+Khalil get an Alf-A-Tron, then we can hop on each other's dick
+Here, bum bum comes here, bum bum goes there
+Hailie, you can suck my dick, guess what I'm a callin' it
+Did you really think I'm a G-I-A-S-Song?
+No?
+Why do we call you D12?
+Why do we put your number on it
+It might stop you from getting an Alf-Ain
+From now on, we gonna Put Your Name On It
+I'm gonna put yours on it
+Yeah, call me Charlie
+I'm gonna put yours on it
+I'm livin' life in the fast lane
+You know what I mean?
+I'm like your troubles woman
+I cover up with a comfy couch
+Look baby there's somethin' I wanna talk to you about
+Girls like you don't wanna hear it
+I admit, I know you feel that too
+Just curious...
+What's it been like for you and Amy
+Both experiencing discrimination
+And yet you're able to lay claim to one another
+It's been a rollercoaster ride for us
+But I guess the more baggage we have
+The sooner we pull through
+It's so crazy what we can out of our misery
+So teary see that fuckin' Steven Seagal kinda shit every so often
+That makes me sad, more than anything
+I just can't seem to get up
+'Cause I'm too busy fighting off the hiss
+'Cause these doc dont even bother saying meds
+So that if it all goes through then I can just drop the mic
+And just make my voice heard
+I hope that no one in particular I've offended
+Has a right to sound angry
+Shit, why would I? My defenses are so up
+And down, daddy's a battlin' asshole
+Now I know why he or she screams that
+And why they need one more time
+Call me Mr. FEMALE, just try to remember which toy girly
+Which shows which season which am I
+Which makes me less of a villain
+And why I still got a long way to go
+To tell my story, really, let's try to tell it
+In a way that feels real, isn't it?
+So let's go, ho! I'm- I- I- I- I- I- I- I- New York Times best-selling author, health food brand
+Makes you sick option, doesn't it?
+Retards, sick people guide you to a hellish world
+Brainwashed, you think your shit'lllast forever?
+Now scientists have shown that
+You've been converted to the habit of sodomising
+Kid who uses taking his own life into his own (he's infesting his home)
+Dr Andrew Wakefield, sound enough to strangle your infant (baby)
+Make noise like a scientist, and risk it, your (rinse) canal burst
+sound like a gunshot wound to your head
+your (white noise) self sounds like a warning to the world
+and toads grow up to become the modern-day Genghis Khan
+warnin' would-be conquerors
+Would be nice to see a movie on the evils
+And the Patriots' haters went wack on the humble
+and today's (patriot) outweighing the demonic
+ipotentiaries of (white noise)
+brings up (inflammation) ya God thou art nigh 3 million years old
+You can't raise a living being through struggle
+Instead of fleece
+You aint hole,you're gonna need toa collapsed
+I-I-I-I hear voices over my PA
+They say her alarm is going off
+Oh my God she's dead
+Can you hear me?
+They don't know what kind of noise we make
+We just enjoy confusing noise with strength
+We feel strong enough to go for a woman and she doesn't seem to be alright
+
+
+[410 | 1018.39] loss=0.05 avg=0.82
+[420 | 1042.67] loss=0.05 avg=0.79
+[430 | 1066.97] loss=0.05 avg=0.77
+[440 | 1091.27] loss=0.07 avg=0.75
+[450 | 1115.57] loss=0.06 avg=0.73
+[460 | 1139.88] loss=0.06 avg=0.71
+[470 | 1164.20] loss=0.04 avg=0.70
+[480 | 1188.50] loss=0.04 avg=0.68
+[490 | 1212.78] loss=0.05 avg=0.66
+[500 | 1237.14] loss=0.05 avg=0.65
+Saving checkpoint/run1/model-500
+WARNING:tensorflow:From /tensorflow-1.15.2/python3.6/tensorflow_core/python/training/saver.py:963: remove_checkpoint (from tensorflow.python.training.checkpoint_management) is deprecated and will be removed in a future version.
+Instructions for updating:
+Use standard file APIs to delete files with this prefix.
+[510 | 1263.92] loss=0.05 avg=0.63
+[520 | 1288.41] loss=0.06 avg=0.62
+[530 | 1312.78] loss=0.05 avg=0.61
+[540 | 1337.07] loss=0.05 avg=0.59
+[550 | 1361.32] loss=0.05 avg=0.58
+[560 | 1385.60] loss=0.04 avg=0.57
+[570 | 1409.90] loss=0.04 avg=0.55
+[580 | 1434.17] loss=0.04 avg=0.54
+[590 | 1458.49] loss=0.05 avg=0.53
+[600 | 1482.84] loss=0.04 avg=0.52
+======== SAMPLE 1 ========
+ as a cipher
+You always say I'm lucky
+cause back then I can still blow pills now yourivbits
+I know you want me baby now
+I know you want me baby Now don't you just be grossed out
+Baby you're thinking I don't know
+Why am I here in the first place?
+Why is my brain racing after me?
+I came to take you with me Now I'm gonna take each baby girl and pair 'em all up
+And take each one of them to yet another party This is survival of the fittest You really wanna fit me into this space?
+Let me see what I can find within this space
+Nothing, I really can't see anything
+Except for a tired, stressed, scared out 'er I'm just gonna stand there and watch
+Like a fucking game of ping pong with no balls
+Is it too late to start over?
+Or am I just gonna grow hungrier and further
+Admittedly, I know better than to take care of my own
+So here's what I just wrote (ninth base, nyack, top)
+Look, I'm totally behind you little bitch
+You're never gonna be as quick as I thought
+And I ain't feel no shame no more
+I'm just gonna stand there and hear me cry
+Like a burnt down house,
+Like a ruined house,
+No more signs of gonna happen
+Except for a moan from somewhere quiet
+I'm still inside the club
+Packing even after fucking Acme
+Just to see what these kids gonna feel
+Just like when I appeared on 'em
+Just a bunch of gibberish
+Then I got sloppy, slouchy and breadlite
+And everything but the most die-offs
+Should be enough to keep me one of the lefties I can be witty
+Tongue its nonsense cut, started and ended
+Grow tired of waiting and something must have goin'
+For me to just fall back and act immature
+Instead of tryin' to strike a chord I's been honing my game
+I can make a be a flunky, cut every word
+But by the time the verses started rolling
+I ain't even gotta keep two still
+I'm honing my game so the more verse verses I I can
+Make me a play for the loose leafy lane
+Of the neighborhood where you pee you're immediately identifiable
+As if you were kissing me
+And I swear to God that I'll be the man no matter what
+I'm from the '80s, '90s Nowadays everybody wanna talk like they got something to say
+But nothing comes out when they move their lips
+Just a bunch of gibberish
+And motherfuckers act like they forgot about Dre Nowadays everybody wanna talk like they got something to say
+But nothing comes out when they move their lips
+Just a bunch of gibberish
+And motherfuckers act like they forgot about Dre So what do you say to someone you hate
+Or anyone tryna bring trouble your way
+Wanna resolve things in a bloodier way
+Then just study a tape of N.W.A
+One day I was walking by
+With a Walkman on
+When I caught a guy
+Give me an awkward eye
+And I strangled him up in the parking lot
+With his Karl Kani
+He said he's from Sweden
+I told him I'd be the man to rock him
+But he left me the next day
+With a big ol' dick dangling
+I told Karl I'd shave his beard and start over
+So I cut him out with S's and a C
+A Fist full of fizzles sings Yella sing the song
+After that you know nothing happens
+In the real world
+When you turn on the TV and just talk
+Just know that I'm just another one e watching
+Sometimes I get so mad I almost kill and hide
+The bitches don't know what's funny
+They keep asking me why I let these bitches keep on talking
+I wanna make a reality TV show about my life
+The crazy shit they hear, I go crazy
+They call me the bard
+And I sing in the chorus
+About money, fame, love, fuckin' a motherfuckin' bitch
+And I'm on holiday in Norway
+And meet a really nice fellow named
+Vincent
+But he's a prick, he tried to touch me
+He tried to touch me on some dates
+But he got a you know, Teddy bear under his wing
+And he tried to take my girl
+By the time they got to the hospital, I would be 32
+I would have died a infantately
+Though I was just born, I'm so pathetically young
+I think about my shitty lives everyday I just do not
+This shit will never work in real life,
+I would have to be a genius to get it
+And I would sooner die than watch
+
+[610 | 1518.22] loss=0.06 avg=0.51
+[620 | 1542.53] loss=0.04 avg=0.50
+[630 | 1566.88] loss=0.04 avg=0.49
+[640 | 1591.24] loss=0.05 avg=0.48
+[650 | 1615.54] loss=0.05 avg=0.47
+[660 | 1639.86] loss=0.03 avg=0.46
+[670 | 1664.22] loss=0.04 avg=0.46
+[680 | 1688.55] loss=0.04 avg=0.45
+[690 | 1712.95] loss=0.05 avg=0.44
+[700 | 1737.32] loss=0.04 avg=0.43
+[710 | 1761.70] loss=0.04 avg=0.42
+[720 | 1786.06] loss=0.05 avg=0.42
+[730 | 1810.43] loss=0.04 avg=0.41
+[740 | 1834.76] loss=0.04 avg=0.40
+[750 | 1859.06] loss=0.04 avg=0.39
+Saving checkpoint/run1/model-750
+[760 | 1885.65] loss=0.05 avg=0.39
+[770 | 1910.16] loss=0.03 avg=0.38
+[780 | 1934.53] loss=0.04 avg=0.38
+[790 | 1958.85] loss=0.05 avg=0.37
+[800 | 1983.10] loss=0.04 avg=0.36
+======== SAMPLE 1 ========
+what this boy's fussin' is real
+He's lookin' around this club don't you think?
+Why him back? why him ass, motherfucker think?
+Why him? his genes are fucked up cause his daddy's sayin' there's a problem
+Fuck that, crack that, let him go slack
+Till he hurls his load all the way to the roof I ain't bustin' it, he ain't makin' a sound
+Like damn near I'm dangling
+Like a fucking cross between a fucking banner and a pole
+I'm cross between a fucking pole and a nine
+I'm cross between a fucking torch and a curtain
+I'm cross between a fucking candle and a single wire
+I'm cross between a fucking candle and a six
+I'm cross between a fucking candle and a three
+I'm cross between a fucking candle and a two
+I'm cross between a fucking candle and a one
+I'm cross between a fucking candle and a ninja dog spirit my heart is a slow burn
+It's about getting there, wanting to be there
+You stop breathing, you stop walking
+You stop talking, you stop breathing
+It's like your soul's in my truck
+Listen up, I'm in your grill, we're cooking
+I'm relishing the challenge, my Shelby brothers
+It's getting to the point, I'm exhausted
+My blood pressure's just a percent above me
+I'm nervous, I'm nervous, I'm murdering people
+It's look who's eating dinner, I'm seein' them wobble
+Brenda means the world to me, she's unfriendly
+I get so drunk I almost killed Nate Dogg, she's unfriendly
+I don't know dude, I don't know what kind of guy you are Nate, what you wanna see?
+I'll show you Hell
+I'll show you hell
+Hell will be what it is You're such a fuckin' bum! I'm so bummed out I can't stand you
+Come to think about, we took the limo, called Nate's number and sat outside it
+And wrote a song about it, kinda like a rap cause we were just like
+Somethin'
+You're such a fuckin' bum! I'm so bummed out I can't stand you
+Come to think about, we took the limo, called Nate's number and sat outside it
+And wrote a song about it, kinda like a rap cause we were just like
+Somethin'
+You're such a fuckin' bum! I'm so bummed out I can't stand you
+Come to think about, we took the limo, called Nate's number and sat outside it
+And wrote a song about it, kinda like a rap cause we were just like
+Somethin'
+You're such a fuckin' bum! I don't know dude, I don't know what the fuck that you mean?
+You mean to hit me up?
+I think you mean to cash me?
+Give me a pat on the back?
+Whatever works for me, works for you
+Got some shit that you'd like to boast?
+Come to think about, we took your cash
+And took your fucking hands off of you
+Got some shit you admired?
+Lick your fucking lips, just nibble on his stubble
+We don't rock the boat much (oh)
+Don't pirate music for pay, I don't know how many times I rock
+But I know once I ripped your lips out
+Said fuck it, I'ma get you a pint
+Unless you come try to cash me in
+Give me a blow-up dolly for Christmas
+We light up like we's the ones who lights the school
+We act like we want to forever infatuation
+I suppose I am his cause he's made to live by the rules
+But I find myself getting more and more irritated
+Over and over again, how the fuck can he get away with it?
+Even after getting it, he still don't give a shit
+Even tryin' to cash me in
+Even if I leave his fuckin' mind in, how did he get here?
+Even if I ran, I'da murdered you
+If I be blew out, you would've stayed in
+If it make you afraid, you're afraid to laugh
+Even if it make you sick to your stomach, how many times?
+Even if it make you gag, how many times?
+Even if it make you gag, how many times?
+Even if it make you gag, how many times?
+Even if it make you gag, how many times?
+Even if it make you gag, how many times?
+Even if it make you gag, how many times?
+Even if it make you gag, how many times?
+Even if it make you gag, how many times?
+Even if it make
+
+[810 | 2018.48] loss=0.04 avg=0.36
+[820 | 2042.72] loss=0.03 avg=0.35
+[830 | 2067.00] loss=0.04 avg=0.35
+[840 | 2091.32] loss=0.04 avg=0.34
+[850 | 2115.65] loss=0.03 avg=0.34
+[860 | 2140.01] loss=0.03 avg=0.33
+[870 | 2164.41] loss=0.04 avg=0.33
+[880 | 2188.85] loss=0.04 avg=0.32
+[890 | 2213.22] loss=0.04 avg=0.32
+[900 | 2237.54] loss=0.03 avg=0.31
+[910 | 2261.88] loss=0.04 avg=0.31
+[920 | 2286.20] loss=0.04 avg=0.30
+[930 | 2310.50] loss=0.03 avg=0.30
+[940 | 2334.78] loss=0.03 avg=0.29
+[950 | 2359.06] loss=0.02 avg=0.29
+[960 | 2383.38] loss=0.03 avg=0.28
+[970 | 2407.68] loss=0.04 avg=0.28
+[980 | 2432.08] loss=0.04 avg=0.28
+[990 | 2456.46] loss=0.03 avg=0.27
+[1000 | 2480.86] loss=0.04 avg=0.27
+Saving checkpoint/run1/model-1000

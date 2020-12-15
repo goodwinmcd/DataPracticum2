@@ -1,0 +1,1009 @@
+WARNING:tensorflow:From /usr/local/lib/python3.6/dist-packages/gpt_2_simple/src/sample.py:17: where (from tensorflow.python.ops.array_ops) is deprecated and will be removed in a future version.
+Instructions for updating:
+Use tf.where in 2.0, which has the same broadcast rule as np.where
+Loading checkpoint models/124M/model.ckpt
+INFO:tensorflow:Restoring parameters from models/124M/model.ckpt
+100%|██████████| 1/1 [00:00<00:00,  8.49it/s]Loading dataset...
+dataset has 19326 tokens
+Training...
+
+[10 | 28.12] loss=1.98 avg=1.98
+[20 | 49.50] loss=1.55 avg=1.77
+[30 | 71.21] loss=1.22 avg=1.58
+[40 | 93.36] loss=0.97 avg=1.43
+[50 | 115.98] loss=0.71 avg=1.28
+[60 | 139.15] loss=0.25 avg=1.11
+[70 | 162.01] loss=0.17 avg=0.97
+[80 | 184.66] loss=0.13 avg=0.86
+[90 | 207.50] loss=0.09 avg=0.77
+[100 | 230.42] loss=0.06 avg=0.70
+======== SAMPLE 1 ========
+ your love,
+And if I fell in love with you,
+Would you kiss my feet and say, "Mean to you, sad to you,
+Mean to you, happy to you,
+Could you see that my love was new?" Love is all you need
+All you need is love, love, love, love, love.
+All you need is love, love, love, love, love, love, love, love, love, love, love.
+All you need is love, love, love, love, love, love, love, love, love, love, love, love.
+All you need is love, love, love, love, love, love, love, love, love, love, love.
+All you need is love, love, love, love, love, love, love, love.
+All you need is love, love, love, love, love, love, love, love, love, love, love.
+All you need is love, love, love, love, love, love, love, love, love, love, love, love.
+All you need is love, love, love, love, love, love, love, love, love, love, love, love, love.
+All you need is love, love, love, love, love, love, love, love, love, love, love, love.
+All you need is love, love, love, love, love, love, love, love, love, love, love, love, love.
+All you need is love, love, love, love, love, love, love, love, love, love.
+All you need is love, love, love, love, love, love, love, love, love, love, love.
+All you need is love, love, love, love, love, love, love, love, love, love, love.
+All you need is love, love, love, love, love, love, love, love, love, love, love, love.
+All you need is love, love, love, love, love, love, love, love, love, love, love, love.
+All you need is love, love, love, love, love, love, love, love, love, love, love.
+All you need is love, love, love, love, love, love, love, love, love, love, love.
+All you need is love, love, love, love, love, love, love, love, love, love, love.
+All you need is love, love, love, love, love, love, love, love, love, love, love.
+All you need is love, love, love, love, love, love, love, love, love, love, love.
+All you need is love, love, love, love, love, love, love, love, love, love, love, love.
+All you need is love, love, love, love, love, love, love, love, love, love, love.
+All you need is love, love, love, love, love, love, love, love, love, love.
+All you need is love, love, love, love, love, love, love, love, love.
+All you need is love, love, love, love, love, love, love, love, love, love.
+All you need is love, love, love, love, love, love, love, love, love, love.
+All you need is love, love, love, love, love, love, love, love, love, love.
+All you need is love, love, love, love, love, love, love, love, love.
+All you need is love, love, love, love, love, love, love, love, love.
+All you need is love, love, love, love, love, love, love, love, love.
+All you need is love, love, love, love, love, love, love, love, love.
+All you need is love, love, love, love, love, love, love, love, love.
+All you need is love, love, love, love, love, love, love, love, love.
+All you need is love, love, love, love, love, love, love, love.
+All you need is love, love, love, love, love, love, love, love.
+All you need is love, love, love, love, love, love, love, love, love.
+All you need is love, love, love, love, love, love, love, love.
+All you need is love, love, love, love, love, love, love, love.
+All you need is
+
+[110 | 265.12] loss=0.06 avg=0.64
+[120 | 287.97] loss=0.04 avg=0.58
+[130 | 310.89] loss=0.05 avg=0.54
+[140 | 333.78] loss=0.04 avg=0.50
+[150 | 356.66] loss=0.05 avg=0.47
+[160 | 379.49] loss=0.04 avg=0.44
+[170 | 402.31] loss=0.05 avg=0.42
+[180 | 425.12] loss=0.04 avg=0.39
+[190 | 447.97] loss=0.05 avg=0.37
+[200 | 470.84] loss=0.05 avg=0.36
+======== SAMPLE 1 ========
+ill and tanta
+Yeah, yeah, yeah You say you want the love of your life
+Well, I want her now I want her now
+You know I don't care too much for money, money can't buy me love, money can't buy me love
+Don't you know, money can't buy me love (in a couple of words)
+You don't want to lose me now
+Don't you know that when I tell you what I want, you're gonna say you want more
+And if I say the word, you can understand
+You don't want to lose me now
+Don't you know it's gonna be
+I'll never be the same
+So what do I even mean to you
+You know you don't want to lose me now?
+I want her now"
+Don't you know it's gonna be
+I'll never be the same
+So what do I even mean to you
+You know you don't want to lose me now?
+I want her now"
+Don't you know it's gonna be
+I'll never be the same
+So what do I even mean to you
+You know you don't want to lose me now?
+I want her now"
+Don't you know it's gonna be
+I'll never be the same
+So what do I even mean to you
+You know you don't want to lose me now?
+I want her now"
+Don't you know it's gonna be
+I'll never be the same
+So what do I even mean to you
+You know you don't want to lose me now?
+I want her now"
+Don't you know it's gonna be
+I'll never be the same
+So what do I even mean to you
+You know you don't want to lose me now?
+I want her now"
+Don't you know it's gonna be
+I'll never be the same
+So what do I even mean to you
+You know you don't want to lose me now?
+I want her now"
+Don't you know it's gonna be
+I'll never be the same
+So what do I even mean to you
+Kenji Ina
+The man who stinks the least
+Kenji Ina's a real man
+But he's not the only one
+He's the man you see on TV
+His name's Ono Ayako
+He's the kind of guy
+You want so much it make you sorry
+But you can't quit him Now there's nobody like him
+He's the kind of guy who puts you down
+But you can't quit him Don't let me down, don't let me down
+You can do what you like But don't let me down, don't let me down
+You can do what you like Don't let me down, don't let me down
+You can do what you like It's been a hard life for me
+But it's not getting it wrong
+I'm fine.
+It's just that I know I'll have to
+And I know I'll have to Put you on my mind
+Maple leaf my mind
+And I hope you see it's you I'm not the kind of person
+To tell the world that you live
+You see I live and I die
+And I love you A B C D
+You don't know how lucky you are, boy
+I missed you dearly And now I'll never know
+If I love you or hate you too
+I'll never know I think you're a fool
+But I want to believe you't I want to believe you
+You know I know that you don't know
+And I want to believe you And now I'll never know
+If I love you or hate you too
+I'll never know
+I think you're a fool
+But I want to believe you't I want to believe you
+You know I think you're a fool
+But I want to believe you't I want to believe you
+You know I'm not the kind of man
+To make the world believe you I thought you knew
+All I know is this, I'll always believe you
+I don't think you'll change your mind
+No, I think you'll change mine He's in my debt, ma belle
+He's the kind of man
+You think you know
+All you need is a mind
+And a pony to listen to you say
+'We're going to an All-Father's party' You think you've got it all
+You got it all, ma belle
+You got it, ma belle
+All you need is a mind
+And a pony to listen to you say
+'We're going to an All-Father's party' Oh I need your love, babe
+Guess you know it's true
+Hope you need my love, babe
+Guess you know it's false
+Oh, oh, oh, oh
+Girl, you don
+
+[210 | 504.58] loss=0.04 avg=0.34
+[220 | 527.42] loss=0.04 avg=0.32
+[230 | 550.28] loss=0.03 avg=0.31
+[240 | 573.13] loss=0.03 avg=0.30
+[250 | 595.98] loss=0.02 avg=0.28
+[260 | 618.85] loss=0.03 avg=0.27
+[270 | 641.74] loss=0.03 avg=0.26
+[280 | 664.62] loss=0.04 avg=0.25
+[290 | 687.51] loss=0.03 avg=0.24
+[300 | 710.38] loss=0.03 avg=0.24
+======== SAMPLE 1 ========
+ very nice day
+Can't buy me love anymore Love you every day
+Always on my mind
+One thing I can say
+Is that love is for people
+They're all good people
+Can't buy me love anymore
+I love you All together now
+Avatar in the sky
+Some kind of happiness is
+Measured out in miles
+If I only had one thing I might say
+It's this crazy feeling
+When I open my door everyone there
+Is there anybody here for me?
+All alone? Well, everybody
+Where do I even begin?
+All alone? Well, everybody
+Where do I even begin?
+All alone? Well, everyone
+Where do I even begin? Oh, I get by with a little help from my friends
+Hmm, I get high with a little help from my friends
+Hmm, going to try with a little help from my friends What do I do when my love is away
+Does it worry you to be alone?
+Like everyone else? Well, every now and then
+I take a moment to think about what's been going on
+Just like I do with you
+Hmm, I get by with a little help from my friends
+Hmm, going to try with a little help from my friends What do I do when my love is away
+Does it worry you to be alone?
+Like everyone else? Well, every now and then
+I take a moment to think about what's been going on
+Just like I do with you
+Hmm, I get by with a little help from my friends
+Hmm, going to try with a little help from my friends What do I do when my love is away
+Does it worry you to be alone?
+Like everyone else? Well, every now and then
+I take a moment to think about what's been going on
+Just like I do with you
+Hmm, I get by with a little help from my friends
+Hmm, going to try with a little help from my friends What do I do when my love is away
+Does it worry you to be alone?
+Yeah, yeah, yeah
+Everybody tells me so
+Everybody knows what they want me to believe
+Everybody tells me so
+I try to resist them All together now
+All together now
+All together now
+All together now
+All together now
+All together now
+All together now
+All together now
+All together now
+All together now
+All together now
+All together now
+All together now
+All together now
+All together now P.S. Because the world is round, some parts are blue
+Because the world is round, some parts are green
+Because the world is round, some parts are purple
+Because the world is round, some parts are green Hey hey, don't run
+Hey, don't fly
+I told you so
+You got to behave
+You got to behave So how do I feel by the sea
+The ocean is blue in the morning
+Because the sea is blue in the morning
+Because the sea is blue in the morning
+Because the sea is blue in the afternoon
+Hey hey, don't swim
+Hey, don't fly
+I told you so
+You got to behave
+You got to behave Hey, don't swim
+Hey, don't fly
+I told you so
+You got to behave So how do I feel by the sky
+The sky is blue in the morning
+Because the sky is blue in the morning
+Because the sky is blue in the afternoon
+Hey hey, don't swim
+Hey, don't fly
+I told you so
+You got to behave
+You got to behave So how do I feel by the sea
+The sky is blue in the morning
+Because the sky is blue in the morning
+Because the sky is blue in the afternoon
+Hey, don't swim
+Hey, don't fly
+I told you so
+You got to behave
+You got to behave So how do I feel by the sea
+The sky is blue in the morning
+Because the sky is blue in the morning
+Because the sky is blue in the evening
+Hey, don't swim
+Hey, don't fly
+I told you so
+You got to behave
+You got to behave You got to behave I love you, I love you, I love you So why on earth should I put my knee up my butt
+Indicate precisely what you mean to say
+By any chance, ladies and gentlemen
+I will tell you so
+I will, ladies and gentlemen. Indicate precisely what you mean to say
+Oh, I get by with a little help from my friends
+Hmm, I get high with a little help from my friends
+Hmm, going to try with a little help from my friends
+Hmm, going to try with a little help from my friends What do I do when my love is away
+Does it worry you to be alone?
+Like everyone else? Well, every now and then
+I take a moment to think about what's been going
+
+[310 | 744.05] loss=0.03 avg=0.23
+[320 | 766.91] loss=0.02 avg=0.22
+[330 | 789.80] loss=0.02 avg=0.21
+[340 | 812.72] loss=0.02 avg=0.21
+[350 | 835.61] loss=0.02 avg=0.20
+[360 | 858.52] loss=0.03 avg=0.20
+[370 | 881.43] loss=0.03 avg=0.19
+[380 | 904.33] loss=0.02 avg=0.18
+[390 | 927.20] loss=0.03 avg=0.18
+[400 | 950.03] loss=0.03 avg=0.18
+======== SAMPLE 1 ========
+
+Climbing up the English tower
+Elementary penguin singing Hare Krishna
+Man, you should have seen them on the news
+Having just won the lottery
+Hearing them tell the world Billy the Don't be afraid
+Lead by example, boy lead
+By example, girl lead
+By example, girl lead
+By example, girl lead
+By example, girl lead
+By example, girl lead
+BY ANDREW Last night, I had the pleasure of two very special friends. One was a banker with a motorcar,
+And the other a gardener with a motorcar.
+He was very pleased to be here
+And he and I had a good time
+The two of us had a good time
+Till a bridge had been built
+Over our heads We sat on a rock
+Set our eyes on the sky
+And studied the sky
+Over our heads And when we said "Goodbye", we parted ways
+And hewed us a cordially
+A costly mistake had occurred
+That could not be corrected
+We had just witnessed a wedding
+And we would be honored to know that it was here
+That we would be happy
+And that it was in us to worry
+He assured us that his life was on the line
+And that he would keep us updated On his way back home He has just returned from a trip to the mines
+Where explosives have been left
+And he is met with a standing ovation.
+He is so full of himself
+That he forgets what he's doing
+And hete no one so full
+That he lets us in He leads the way with his guitar
+He sings a song that I will sing
+And he will lead the way Once there was a way,
+To get back homeward,
+Once there was a way,
+To get back home
+Sleep pretty darling do not cry
+and I will sing a lullaby Golden slumbers fill your eyes,
+smiles awake you when you rise
+Sleep pretty darling do not cry,
+and I will sing a lullaby Boy you're gonna carry that weight,
+carry that weight for a long time
+Boy you're gonna carry that weight,
+carry that weight for a long time I never give you my pillow,
+I only send you my invitations
+And in the middle of the celebrations,
+I break down Boy you're gonna carry that weight,
+carry that weight for a long time
+Boy you're gonna carry that weight,
+carry that weight for a long time Oh yeah, all right,
+All right, all right,
+All right, all right,
+All right, all right, all right In my hour of darkness,
+I look out across the universe
+Looking up at the stars. In my hour of darkness
+I take a breath and feel the wind blow
+I know I can't be found
+In my hour of darkness
+I look out across the universe
+Looking up at the stars. In my hour of darkness
+I take a drink and I feel the wind blow
+I know I can't be found
+In my hour of darkness
+I take a smoke and I feel the wind blow
+I know I can't be found
+In my hour of darkness Oh, every day for the past three weeks
+I have the pleasure of his hair,
+His eyes are blue
+And we speak in a low voice He says he wants to hold the wedding day
+betrothal party
+Outdoors
+To himself
+And in the pouring rain He drags a carton of honey
+Intakes himself from the table
+Drives off in his limousine
+Puts his hands up in the air
+Somebody calls the police, but I they come right by
+Owww!
+They get the girl, the guy Who made the news last week
+(She love him, she love him, she love him)
+(She love him, she love him, she love him)
+They have to be safe
+And I need my girl, the kind of girl
+You want so much it make you sorry
+Still you don't regret a single day
+Still you don't regret a single day You feel that something is missing
+It's like nothing has changed
+It's like nothing you can tell me
+That it's your girl that keeps me going
+Still you don't regret a single day
+Still you don't regret a single day Oh yeah, all right
+All right, all right,
+All right, all right,
+All right, all right, all right
+All right, all right, all right In my hour of darkness
+I take a breath and feel the wind blow
+I know I can't be found
+In my hour of darkness
+I take a drink and I feel the wind blow
+I know I can't be found
+In my hour of darkness He's my girl, he's my girl,
+She's my girl too,
+The way she looks
+When she's mine Oh
+
+[410 | 983.34] loss=0.02 avg=0.17
+[420 | 1006.15] loss=0.02 avg=0.17
+[430 | 1028.98] loss=0.02 avg=0.16
+[440 | 1051.82] loss=0.03 avg=0.16
+[450 | 1074.67] loss=0.02 avg=0.15
+[460 | 1097.54] loss=0.02 avg=0.15
+[470 | 1120.38] loss=0.04 avg=0.15
+[480 | 1143.24] loss=0.02 avg=0.15
+[490 | 1166.10] loss=0.02 avg=0.14
+[500 | 1188.93] loss=0.02 avg=0.14
+Saving checkpoint/run1/model-500
+======== SAMPLE 1 ========
+ I don't know why you say "Goodbye", I say "Hello". You say "Yes", I say "No".
+(I say "Yes", but I may mean "No").
+You say "Stop", I say "Go, go, go".
+(I can stay still it's time to go).
+Oh, oh no. You say "Goodbye" and I say "Hello, hello, hello".
+I don't know why you say "Goodbye", I say "Hello, hello, hello".
+I don't know why you say "Goodbye", I say "Hello, hello, hello".
+I don't know why you say "Goodbye", I say "Hello-wow, oh. Hello".
+Hela, heba, helloa. Hela, heba, helloa. Hela, heba, helloa.
+Hela, heba, helloa. (Hela.) Hela, heba, helloa. Hela, heba, helloa.
+Hela, heba, helloa. Hela, heba, helloa. Hela, heba, helloa. I once had a girl
+Or should I say she once had me
+She showed me her room
+Isn't it good Norwegian wood? She asked me to stay
+And she told me to sit anywhere
+So I looked around
+And I noticed there wasn't a chair I sat on a rug biding my time
+Drinking her wine
+We talked until two and then she said
+"It's time for bed" She told me she worked
+In the morning and started to laugh
+I told her I didn't
+And crawled off to sleep in the bath And when I awoke I was alone
+This bird had flown
+So I lit a fire
+Isn't it good Norwegian wood? Well, shake it up baby now
+Twist and shout
+Come on, come on, come, come on baby now
+Come on and work it on out
+Well, work it on out, honey
+You know you look so good
+You know you got me goin' now
+Just like I know you would Well, shake it up baby now
+Twist and shout
+Come on, come on, come, come on baby now
+Come on and work it on out
+You know you twist, little girl
+You know you twist so fine
+Come on and twist a little closer now
+And let me know that you're mine, woo Ah, ah, ah, ah, wow
+Baby now
+Twist and shout
+Come on, come on, come, come on baby now
+Come on and work it on out
+You know you twist, little girl
+You know you twist so fine
+Come on and twist a little closer now
+And let me know that you're mine
+Well, shake it, shake it, shake it, baby now
+Well, shake it, shake it, shake it, baby now
+Well, shake it, shake it, shake it, baby now
+Ah, ah, ah, ah She loves you, yeah, yeah, yeah
+She loves you, yeah, yeah, yeah
+She loves you, yeah, yeah, yeah You think you've lost your love
+Well, I saw her yesterday-yi-yay
+It's you she's thinking of
+And she told me what to say-yi-yay She says she loves you
+and you know that can't be bad
+Yes, she loves you
+and you know you should be glad She said you hurt her so
+She almost lost her mind
+And now she says she knows
+You're not the hurting kind She says she loves you
+and you know that can't be bad
+Yes, she loves you
+and you know you should be glad Oo, she loves you, yeah, yeah, yeah
+She loves you, yeah, yeah, yeah
+With a love like that
+You know you should be glad You know it's up to you
+I think it's only fair
+Pride can hurt you too
+Apologize to her Because she loves you
+and you know that can't be bad
+Yes, she loves you
+and you know you should be glad Oo, she loves you, yeah, yeah, yeah
+She loves you, yeah, yeah, yeah
+With a love like that
+You know you should be glad
+With a love like that
+you know you should be glad
+With a love like that
+you know you should be glad
+Yeah, yeah, yeah,
+Yeah, yeah, yeah, yeah Ah look at all the lonely people
+Ah look at all the lonely people Eleanor Rigby, picks up the rice
+In the church where a wedding has been
+Lives in a dream
+Waits at the window, wearing the face
+That she keeps in a jar by the door
+Who is it for All the lonely people
+Where do they all
+
+[510 | 1225.49] loss=0.03 avg=0.14
+[520 | 1248.37] loss=0.02 avg=0.13
+[530 | 1271.18] loss=0.03 avg=0.13
+[540 | 1293.97] loss=0.02 avg=0.13
+[550 | 1316.85] loss=0.02 avg=0.13
+[560 | 1339.79] loss=0.02 avg=0.12
+[570 | 1362.61] loss=0.03 avg=0.12
+[580 | 1385.48] loss=0.02 avg=0.12
+[590 | 1408.47] loss=0.02 avg=0.12
+[600 | 1431.37] loss=0.02 avg=0.11
+======== SAMPLE 1 ========
+, the girl with the kaleidoscope eyes Lucy in the sky with diamonds
+Lucy in the sky with diamonds
+Lucy in the sky with diamonds
+Ah Picture yourself on a train in a station
+With plasticine porters with looking glass ties
+Suddenly someone is there at the turnstile
+The girl with the kaleidoscope eyes Lucy in the sky with diamonds
+Lucy in the sky with diamonds
+Lucy in the sky with diamonds
+Lucy in the sky with diamonds
+Lucy in the sky with diamonds
+Ah
+Lucy in the sky with diamonds
+Lucy in the sky
+Lucy in the sky
+Lucy in the sky
+Ah When I get older, losing my hair, many years from now
+Will you still be sending me a valentine, birthday greetings, bottle of wine?
+If I'd been out till quarter to three, would you lock the door?
+Will you still need me, will you still feed me, when I'm sixty-four? You'll be older too
+Ah
+Lucy in the sky with diamonds
+Lucy in the sky with diamonds
+Lucy in the sky with diamonds
+Ah
+Lucy in the sky with diamonds
+Lucy in the sky
+Lucy in the sky
+Ah
+Lucy in the sky with diamonds
+Lucy in the sky
+Lucy in the sky
+Ah
+Lucy in the sky with diamonds
+Lucy in the sky
+Lucy in the sky
+Lucy in the sky You say "I say" so well you know what I mean
+And I say "I can't live without you".
+You say "you can't, you can't".
+You say "I know what you mean". You say "I can't live without you"
+You can't, you can't". I say "you can't, you can't".
+You can't, you can't". You say "you can't, you can't".
+You can't, you can't" I tell you what to do
+I can't live without you
+You: You say "I say")
+but I can't live without you
+You: I can't live without you
+You: You can't, you can't". And when I ask you to be mine
+You: Oh no
+You say "No"
+But I can't live without you
+You: Well, you know
+I can't live without you You: Well, you know
+I can't live without you
+You: Oh, you know
+I can't live without you Can't live without you
+You: Oh, you know
+I can't live without you
+You: Oh, you know
+I can't live without you Can't live without you
+You: Oh, you know
+I can't live without you
+You: Oh, you know
+I can't live without you
+You: Oh, you know
+I can't live without you
+You: Oh, you know
+I can't live without you
+You: Oh, you know
+I can't live without you
+You: You know
+I can't live without you
+You: Oh, you know
+I can't live without you
+You: You know
+I can't live without you
+You: You know
+I can't live without you
+You: You know Can't live without you
+Yeah, you know
+I can't live without you
+You: You know
+I can't live without you
+You: You know I can't live with you When I get older, losing my hair, many years from now
+Will you still be sending me a valentine, birthday greetings, bottle of wine?
+If I'd been out till quarter to three, would you lock the door?
+If I'd been out till quarter to three, would you still be sending me a valentine, birthday greetings, bottle of wine?
+If I'd been out till quarter to three, would you still be sending me a valentine?
+You know I can't live with you If I'd been out till quarter to three, would you still be sending me a valentine?
+No, I can't live with you If I'd been out till quarter to three, would you still be sending me a valentine?
+I can't live with you If I'd been out till quarter to three, would you still be sending me a valentine?
+I can't live with you Somebody to love
+Somebody new
+Someone to love
+Someone like you Love, love me do
+That I do,
+And you know I do Love, love me do
+That I do,
+And you know I do
+Oh, you know
+I feel ok When I'm older
+I may not have as much
+Liveserver
+Liveserversa
+Some kind of love is
+Measured out in miles
+
+[610 | 1465.81] loss=0.03 avg=0.11
+[620 | 1488.75] loss=0.02 avg=0.11
+[630 | 1511.67] loss=0.01 avg=0.11
+[640 | 1534.58] loss=0.02 avg=0.11
+[650 | 1557.43] loss=0.02 avg=0.10
+[660 | 1580.29] loss=0.02 avg=0.10
+[670 | 1603.15] loss=0.02 avg=0.10
+[680 | 1626.04] loss=0.03 avg=0.10
+[690 | 1648.94] loss=0.02 avg=0.10
+[700 | 1671.86] loss=0.02 avg=0.10
+======== SAMPLE 1 ========
+If you see me at all
+I'd like to be under the sea
+In an octopus' garden in the shade
+I'd like to be under the sea
+In an octopus' garden in the shade I'd you know I'd like to be under the sea
+I'd make you dream
+Look at you all see the love there that's sleeping
+While my guitar gently weeps
+Look at you all
+I'd like to be under the sea
+In an octopus' garden in the shade
+I'd like to be under the sea
+In an octopus' garden in the shade Oh yeah, all right
+Are you gonna be in my dreams tonight? Love you, love you
+Love you, love you
+Love you, love you
+Love you, love you
+Love you, love you
+Love you, love you
+Love you, love you
+Love you, love you
+Love you, love you And in the end, the love you take
+Is equal to the love you make I read the news today, oh boy
+About a lucky man who made the grade
+And though the news was rather sad
+Well I just had to laugh I saw the photograph
+He blew his mind out in a car
+He didn't notice that the lights had changed
+A crowd of people stood and stared
+They'd seen his face before
+Nobody was really sure
+If he was from the House of Lords I saw a film today, oh boy
+The English Army had just won the war
+A crowd of people turned away
+But I just had to look
+Having read the book
+I'd love to turn you on Woke up, fell out of bed
+Dragged a comb across my head
+Found my way downstairs and drank a cup
+And looking up I noticed I was late
+Found my coat and grabbed my hat
+Made the bus in seconds flat
+Found my way upstairs and had a smoke
+Somebody spoke and I went into a dream I read the news today, oh boy
+Four thousand holes in Blackburn, Lancashire
+And though the holes were rather small
+They had to count them all
+Now they know how many holes it takes to fill the Albert Hall
+I'd love to turn you on Michelle, ma belle
+These are words that go together well
+My Michelle
+Michelle, ma belle
+Sont les mots qui vont tres bien ensemble
+Tres bien ensemble
+I love you, I love you, I love you
+That's all I want to say
+Until I find a way
+I will say the only words I know that you'll understand Michelle, ma belle
+Sont les mots qui vont tres bien ensemble
+Tres bien ensemble
+I need to, I need to, I need to
+I need to make you see
+Oh, what you mean to me
+Until I do, I'm hoping you will know what I mean
+I love you... I want you, I want you, I want you
+I think you know by now
+I'll get to you somehow
+Until I do, I'm telling you so you'll understand
+Michelle, ma belle
+Sont les mots qui vont tres bien ensemble
+Tres bien ensemble
+And I will say the only words I know that you'll understand
+My Michelle Penny Lane there is a barber showing photographs
+Of every head he's had the pleasure to know.
+And all the people that come and go
+Stop and say "Hello". On the corner is a banker with a motorcar,
+And little children laugh at him behind his back.
+And the banker never wears a mac
+In the pouring rain, very strange. Penny Lane is in my ears and in my eyes.
+There beneath the blue suburban skies
+I sit, and meanwhile back
+In Penny Lane there is a fireman with an hourglass,
+And in his pocket is a portrait of the Queen.
+He likes to keep his fire engine clean,
+It's a clean machine. Penny Lane is in my ears and in my eyes.
+A four of fish and finger pies
+In summer. Meanwhile back
+Behind the shelter in the middle of the roundabout
+The pretty nurse is selling poppies from a tray.
+And though she feels as if she's in a play,
+She is anyway. In Penny Lane the barber shaves another customer,
+We see the banker sitting waiting for a trim,
+And then the fireman rushes in
+From the pouring rain - very strange. Penny Lane is in my ears and in my eyes.
+There beneath the blue suburban skies
+I sit, and meanwhile back.
+Penny Lane is in my ears and in my eyes.
+There beneath the blue suburban skies
+Penny Lane! Jojo was a man who thought he was a loner
+But he knew it wouldn't last
+Jojo left his home in Tucson, Arizona
+
+[710 | 1705.84] loss=0.02 avg=0.09
+[720 | 1728.79] loss=0.02 avg=0.09
+[730 | 1751.69] loss=0.02 avg=0.09
+[740 | 1774.54] loss=0.02 avg=0.09
+[750 | 1797.37] loss=0.02 avg=0.09
+[760 | 1820.21] loss=0.02 avg=0.09
+[770 | 1843.08] loss=0.02 avg=0.09
+[780 | 1865.91] loss=0.02 avg=0.09
+[790 | 1888.75] loss=0.02 avg=0.08
+[800 | 1911.74] loss=0.02 avg=0.08
+======== SAMPLE 1 ========
+ me and send me a postcard,
+Stating point of view Picture yourself in London in the autumn of the last decade,
+Boy, you're gonna Carry That Weight
+Carry That Weight a long time
+I never give you my pillow
+I only send you my invitations
+And in the middle of all this negotiations I break down
+Boy, you're gonna Carry That Weight
+Carry That Weight a long time
+Boy, you're gonna Carry That Weight
+Carry That Weight a long time
+I never give you my pillow
+I only send you my invitations
+And in the middle of all this negotiations I break down
+Boy, you're gonna Carry That Weight
+Carry That Weight a long time
+Boy, you're gonna Carry That Weight
+Carry That Weight a long time
+I never give you my pillow
+I only send you my invitations
+And in the middle of all this negotiations I break down
+Boy, you're gonna Carry That Weight
+Carry That Weight a long time
+Boy, you're gonna Carry That Weight
+Carry That Weight a long time
+I never give you my pillow
+I only send you my invitations
+And in the middle of all this negotiations I break down
+Boy, you're gonna Carry That Weight
+Carry That Weight a long time
+Boy, you're gonna Carry That Weight
+Carry That Weight a long time
+Oh yeah!
+All right!
+Are you going to be in my dreams tonight?
+Love you, love you, love you, love you, love you, love you
+Love you, love you, love you, love you, love you, love you
+Love you, love you, love you, love you, love you, love you
+Love you, love you, love you, love you, love you, love you
+Love you, love you, love you, love you, love you, love you and I will sing a song
+I'll never dance with another
+I'll sing a lullaby
+I'll never dance with another
+I'll sing a lullaby. Love you, love you, love you, love you, love you, love you
+Love you, love you, love you, love you, love you, love you And I will sing a lullaby
+I'll never dance with another
+I'll sing a lullaby
+I'll sing a lullaby. Imagine there's no heaven
+It's easy if you try
+No hell below us
+Above us only sky
+Imagine all the people
+Living for today... Imagine there's no countries
+It isn't hard to do
+Nothing to kill or die for
+And no religion, too Imagine all the people
+Living life in peace You, you may say I'm a dreamer
+But I'm not the only one
+I hope someday you will join us
+And the world will be as one Imagine no possessions
+I'll say that I'll never lose affection
+For people and things that went before
+I doubt you
+But I'll say that I'll always be true
+And then while I'm away
+I'll write home every day
+And I'll send all my loving to you I'll pretend that I'm kissing
+The lips I am missing
+And hope that my dreams will come true
+And then while I'm away
+I'll write home every day
+And I'll send all my loving to you All my loving, I will send to you
+All my loving, darling I'll be true Close your eyes and I'll kiss you
+Tomorrow I'll miss you
+Remember I'll always be true
+And then while I'm away
+I'll write home every day
+And I'll send all my loving to you All my loving, I will send to you
+All my loving, darling I'll be true
+All my loving, all my loving
+Woo, all my loving, I will send to you It's been a hard day's night, and I been working like a dog
+It's been a hard day's night, I should be sleeping like a log
+But when I get home to you I'll find the things that you do
+Will make me feel alright You know I work all day to get you money to buy you things
+And it's worth it just to hear you say you're going to give me everything
+So why on earth should I moan, 'cause when I get you alone
+You know I feel ok When I'm home feeling you holding me tight, tight Owww!
+So why on earth should I moan, 'cause when I get you alone
+You know I feel ok When I'm home feeling you holding me tight, tight, yeah It's been a hard day's night, and I been working like a dog
+It's been a hard day's night, I should be sleeping like a log
+But when I get home to you I'll find the things that you do
+Will make me feel alright
+You know I feel alright
+You know I
+
+[810 | 1945.71] loss=0.02 avg=0.08
+[820 | 1968.55] loss=0.01 avg=0.08
+[830 | 1991.51] loss=0.02 avg=0.08
+[840 | 2014.44] loss=0.02 avg=0.08
+[850 | 2037.29] loss=0.01 avg=0.08
+[860 | 2060.18] loss=0.01 avg=0.08
+[870 | 2083.12] loss=0.02 avg=0.08
+[880 | 2106.11] loss=0.02 avg=0.07
+[890 | 2129.04] loss=0.02 avg=0.07
+[900 | 2151.94] loss=0.02 avg=0.07
+======== SAMPLE 1 ========
+ loud I sit,
+On the way in two
+Two and two are living
+One is dead And in the middle of the celebrations,
+is the fireman,
+Sgt. Pepper's Lonely Hearts Club Band
+We sing a lullaby Golden slumbers,
+Spill yourself still more
+You're gonna need it all the time
+If you want it all the time,
+You just need the love of your heart
+Love you, love you, love you, love you, love you
+Love you, love you, love you, love you, love you
+Love you, love you, love you, love you, love you
+Love you, love you, love you, love you, love you
+Love you, love you, love you, love you, love you
+And, in The End, do not cry
+Because I can't be loved
+When I have read your song
+I'm not certain
+How long ago today's incident
+Began?
+Tonight, di-di-di-di'n'di. Falling, yes I am falling,
+And she keeps calling
+Me back again. I have never known
+The like of this, I've been alone
+And I have missed things
+And kept out of sight
+But other girls were never quite
+Like this, di-di-di-di'n'di. Falling, yes I am falling,
+And she keeps calling
+Me back again. Yeah!
+Bup-a-lup-bup! Falling, yes I am falling,
+And she keeps calling
+Me back again. I've just seen a face,
+I can't forget the time or place
+Where we just met.
+She's just the girl for me
+And I want all the world to see
+We've met, mm-mm-mm-di-di-di. Falling, yes I am falling,
+And she keeps calling
+Me back again. Falling, yes I am falling,
+And she keeps calling
+Me back again. Oh, falling, yes I am falling,
+And she keeps calling
+Me back again. Imagine there's no heaven
+It's easy if you try
+No hell below us
+Above us only sky
+Imagine all the people
+Living for today... Imagine there's no countries
+It isn't hard to do
+Nothing to kill or die for
+And no religion, too Imagine all the people
+Living life in peace You, you may say I'm a dreamer
+But I'm not the only one
+I hope someday you will join us
+And the world will be as one Imagine no possessions
+I wonder if you can
+No need for greed or hunger
+A brotherhood of man Imagine all the people
+Sharing all the world You, you may say I'm a dreamer
+But I'm not the only one
+I hope someday you will join us
+And the world will live as one The long and winding road
+That leads to your door
+Will never disappear
+I've seen that road before
+It always leads me here
+Lead me to you door The wild and windy night
+That the rain washed away
+Has left a pool of tears
+Crying for the day
+Why leave me standing here
+Let me know the way Many times I've been alone
+And many times I've cried
+Any way you'll never know
+The many ways I've tried But still they lead me back
+To the long winding road
+You left me waiting here
+A long long time ago
+Don't leave me standing here
+Lead me to your door But still they lead me back
+To the long winding road
+You left me waiting here
+A long long time ago
+Don't leave me standing here
+Lead me to your door Oh, I need your love, babe
+Guess you know it's true
+Hope you need my love babe
+Just like I need you Hold me, love me, hold me, love me
+I ain't got nothing but love, babe
+Eight days a week Love you every day, girl
+Always on my mind
+One thing I can say, girl
+Love you all the time Hold me, love me, hold me, love me
+I ain't got nothing but love, girl
+Eight days a week Eight days a week
+I love you
+Eight days a week
+Is not enough to show I care Ooh I need your love, babe
+Guess you know it's true
+Hope you need my love babe
+Just like I need you Hold me, love me, hold me, love me
+I ain't got nothing but love, babe
+Eight days a week
+Eight days a week
+Eight days a week Is there anybody going to listen to my story
+All about the girl who came to stay?
+She's the kind of girl
+You want so much it make you sorry
+Still you don't regret a single day
+Ah, girl, girl, girl When I
+
+[910 | 2185.75] loss=0.01 avg=0.07
+[920 | 2208.70] loss=0.01 avg=0.07
+[930 | 2231.63] loss=0.02 avg=0.07
+[940 | 2254.48] loss=0.02 avg=0.07
+[950 | 2277.34] loss=0.02 avg=0.07
+[960 | 2300.21] loss=0.02 avg=0.07
+[970 | 2323.08] loss=0.02 avg=0.07
+[980 | 2346.00] loss=0.02 avg=0.07
+[990 | 2368.93] loss=0.02 avg=0.06
+[1000 | 2391.87] loss=0.01 avg=0.06
+Saving checkpoint/run1/model-1000
+WARNING:tensorflow:From /tensorflow-1.15.2/python3.6/tensorflow_core/python/training/saver.py:963: remove_checkpoint (from tensorflow.python.training.checkpoint_management) is deprecated and will be removed in a future version.
+Instructions for updating:
+Use standard file APIs to delete files with this prefix.

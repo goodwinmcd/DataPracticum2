@@ -1,0 +1,619 @@
+WARNING:tensorflow:From /usr/local/lib/python3.6/dist-packages/gpt_2_simple/src/sample.py:17: where (from tensorflow.python.ops.array_ops) is deprecated and will be removed in a future version.
+Instructions for updating:
+Use tf.where in 2.0, which has the same broadcast rule as np.where
+Loading checkpoint models/124M/model.ckpt
+INFO:tensorflow:Restoring parameters from models/124M/model.ckpt
+  0%|          | 0/1 [00:00<?, ?it/s]Loading dataset...
+100%|██████████| 1/1 [00:00<00:00,  4.64it/s]
+dataset has 38764 tokens
+Training...
+[10 | 28.56] loss=1.82 avg=1.82
+[20 | 50.09] loss=1.63 avg=1.73
+[30 | 72.05] loss=1.60 avg=1.69
+[40 | 94.61] loss=1.26 avg=1.58
+[50 | 117.69] loss=1.25 avg=1.51
+[60 | 140.28] loss=0.96 avg=1.42
+[70 | 162.77] loss=0.70 avg=1.31
+[80 | 185.39] loss=0.58 avg=1.22
+[90 | 208.09] loss=0.59 avg=1.14
+[100 | 230.71] loss=0.38 avg=1.06
+[110 | 253.22] loss=0.20 avg=0.98
+[120 | 275.81] loss=0.24 avg=0.92
+[130 | 298.42] loss=0.14 avg=0.85
+[140 | 321.04] loss=0.08 avg=0.80
+[150 | 343.70] loss=0.08 avg=0.74
+[160 | 366.37] loss=0.09 avg=0.70
+[170 | 389.00] loss=0.07 avg=0.66
+[180 | 411.64] loss=0.05 avg=0.62
+[190 | 434.27] loss=0.08 avg=0.59
+[200 | 456.93] loss=0.06 avg=0.56
+======== SAMPLE 1 ========
+ so just like me The girls say my name
+Please forgive me
+It's just me against the music
+Yeah, yeah, yeah, yeah (Oh)
+Oh, oh, oh, oh, oh (Oh)
+Oh, oh, oh, oh, oh (Oh) I know I've been neglected
+And I still feel like a slave under the music
+Hate isn't code
+I don't need approval From the bottom of my broken heart
+I'm not judging
+Oh, oh, oh, oh, oh (Oh)
+I'm sorry if this has been a long time
+But it feels so right
+Baby since you came
+And we've been seeing things
+And I know I've been neglected
+Hate isn't code
+I don't need permission I'm not trying to hide
+I'm just happy to see you're around
+It's not that I don't mind
+All of the girls see what I see
+And I see what I see
+It's not that I don't mind
+All of the girls see what I see
+And I see what I see
+It's not that I don't mind (not that I mind)
+All of the girls see what I see
+And I see what I see
+It's not that I don't mind (not that I mind)
+All of the girls see what I see
+And I see what I see
+(Forthcoming) It's not that I don't mind
+But all the girls see what I see
+And I see what I see
+It's not that I don't mind (not that I mind)
+All of the girls see what I see
+And I see what I see
+(Forthcoming) It's not that I don't mind
+But all the girls see what I see
+And I see what I see
+(Forthcoming) It's not that I don't mind
+But all the girls see what I see
+And I see what I see
+(Forthcoming) It's not that I don't mind
+But all the girls see what I see
+And I see what I see
+(Forthcoming) It's not that I don't mind
+But all the girls see what I see
+And I see what I see
+(Forthcoming) It's not that I don't mind
+But all the girls see what I see
+And I see what I see
+(Forthcoming) It's not that I don't mind
+But all the girls see what I see
+And I see what I see
+(Forthcoming) It's not that I don't mind
+But all the girls see what I see
+And I see what I see
+(Forthcoming) It's not that I don't mind
+But all the girls see what I see
+And I see what I see
+(Forthcoming) It's not that I don't mind
+But all the girls see what I see
+And I see what I see
+(Forthcoming) It's not that I don't mind
+But all the girls see what I see
+And I see what I see
+(Forthcoming) It's not that I don't mind
+But all the girls see what I see
+And I see what I see
+(Forthcoming) It's not that I don't mind
+But all the girls see what I see
+And I see what I see
+(Forthcoming) It's not that I don't mind
+But all the girls see what I see
+And I see what I see
+(Forthcoming) It's not that I don't mind
+But all the girls see what I see
+And I see what I see
+(Forthcoming) It's not that I don't mind
+But all the girls see what I see
+And I see what I see
+(Forthcoming) It's not that I don't mind
+But all the girls see what I see
+And I see what I see
+(Forthcoming) It's not that I don't mind
+But all the girls see what I see
+And I see what I see
+(Forthcoming) It's not that I don't mind
+But all the girls see what I see
+And I see what I see
+(Forthcoming) It's not that I don't mind
+But all the girls see what I see
+And I see what I see
+(Forthcoming) It's not that I don't mind
+(I'm just tryin' to find the woman in me]
+I'm tryin' to find the woman in me
+The woman in me knows me
+I can tell her heart is broken easily If she feels me now
+And all the things that she has
+Is tainted deceit
+I have tried but I can't find the woman in me
+So tainted have been I
+I's selfish, my selfishness Oh
+I
+
+[210 | 491.27] loss=0.06 avg=0.54
+[220 | 513.96] loss=0.05 avg=0.51
+[230 | 536.64] loss=0.04 avg=0.49
+[240 | 559.31] loss=0.06 avg=0.47
+[250 | 581.96] loss=0.05 avg=0.45
+Saving checkpoint/run1/model-250
+[260 | 607.33] loss=0.05 avg=0.43
+[270 | 630.04] loss=0.05 avg=0.42
+[280 | 652.74] loss=0.04 avg=0.40
+[290 | 675.39] loss=0.06 avg=0.39
+[300 | 697.99] loss=0.04 avg=0.37
+[310 | 720.59] loss=0.04 avg=0.36
+[320 | 743.22] loss=0.04 avg=0.35
+[330 | 765.87] loss=0.04 avg=0.34
+[340 | 788.53] loss=0.03 avg=0.33
+[350 | 811.20] loss=0.04 avg=0.32
+[360 | 833.81] loss=0.03 avg=0.31
+[370 | 856.42] loss=0.04 avg=0.30
+[380 | 878.98] loss=0.05 avg=0.29
+[390 | 901.60] loss=0.05 avg=0.28
+[400 | 924.18] loss=0.03 avg=0.28
+======== SAMPLE 1 ========
+ it
+You can fill me up every day
+Up til here, crying, telling me just what you want
+And I can take you anywhere
+We don't need no pain, no guilt
+Just love, love, love
+Boys, and when a girl is with one
+Boys, and when a girl is with one (what, what, what)
+Boys, and when a girl is with one (where, where)
+Boys, and when a girl is with one (where, where)
+Boys (and why don't they let you go?)
+Boys-and-boys (and-boys, and-boys, and-boys)
+Boys (and-boys (and-boys, and-boys)
+Boys-and-boys (and-boys, and-boys)
+Boys (and-boys, and-boys)
+Boys (and-boys, and-boys)
+Boys (and-boys, and-boys)
+Boys (and-boys, and-boys)
+Boys (and-boys, and-boys)
+Boys (and-boys, and-boys)
+Boys (and-boys, and-boys)
+Boys (and-boys, and-boys)
+Boys-and-boys (and-boys, and-boys)
+Boys (and-boys, and-boys)
+Boys (and-boys, and-boys)
+Boys (and-boys, and-boys)
+Boys (and-boys, and-boys)
+Boys (and-boys, and-boys)
+Boys (and-boys, and-boys)
+Boys (and-boys, and-boys)
+Boys (and-boys, and-boys)
+Boys (and-boys, and-boys)
+Boys (and-boys, and-boys)
+Boys (and-boys, and-boys)
+Boys Plus (and all the other things)
+(And all the other things)
+(And all the other things)
+Boys-and-boys (and-boys)
+Boys-and-boys (and-boys, and-boys)
+Boys (and-boys, and-boys)
+Boys-and-boys (and-boys, and-boys)
+Boys-and-boys (and-boys, and-boys)
+Boys-and-boys (and-boys, and-boys)
+Boys-and-boys (and-boys)
+Boys-and-boys (and-boys, and-boys)
+Boys (and-boys, and-boys)
+Boys (and-boys, and-boys)
+Boys-and-boys (and-boys)
+Boys (and-boys, and-boys)
+Boys (and-boys, and-boys)
+Boys (and-boys, and-boys)
+Boys (and-boys, and-boys)
+Boys (and-boys, and-boys)
+Boys (and-boys, and-boys)
+Boys (and-boys, and-boys)
+Boys (and-boys, and-boys)
+Boys (and-boys, and-boys)
+Boys (and-boys, and-boys)
+Boys-and-boys (and-boys)
+Boys-and-boys (and-boys)
+Boys-and-boys (and-boys)
+Boys (and-boys, and-boys)
+Boys-and-boys (and-boys)
+Boys-and-boys (and-boys)
+Boys-and-boys (and-boys)
+Boys-and-boys (and-boys)
+Boys-and-boys (and-boys)
+Boys-and-boys (and-boys)
+Boys-and-boys (and-boys)
+Boys-and-boys (and-boys)
+Boys-and-boys (and-boys)
+Boys-and-boys (and-boys)
+Boys-and-boys (and-boys)
+
+
+[410 | 957.20] loss=0.04 avg=0.27
+[420 | 979.90] loss=0.03 avg=0.26
+[430 | 1002.56] loss=0.03 avg=0.26
+[440 | 1025.19] loss=0.04 avg=0.25
+[450 | 1047.79] loss=0.04 avg=0.24
+[460 | 1070.40] loss=0.03 avg=0.24
+[470 | 1093.00] loss=0.03 avg=0.23
+[480 | 1115.59] loss=0.04 avg=0.23
+[490 | 1138.19] loss=0.03 avg=0.22
+[500 | 1160.79] loss=0.03 avg=0.22
+Saving checkpoint/run1/model-500
+WARNING:tensorflow:From /tensorflow-1.15.2/python3.6/tensorflow_core/python/training/saver.py:963: remove_checkpoint (from tensorflow.python.training.checkpoint_management) is deprecated and will be removed in a future version.
+Instructions for updating:
+Use standard file APIs to delete files with this prefix.
+[510 | 1185.62] loss=0.02 avg=0.21
+[520 | 1208.34] loss=0.03 avg=0.21
+[530 | 1230.97] loss=0.03 avg=0.20
+[540 | 1253.54] loss=0.03 avg=0.20
+[550 | 1276.16] loss=0.05 avg=0.20
+[560 | 1298.83] loss=0.02 avg=0.19
+[570 | 1321.53] loss=0.03 avg=0.19
+[580 | 1344.20] loss=0.03 avg=0.19
+[590 | 1366.85] loss=0.03 avg=0.18
+[600 | 1389.46] loss=0.03 avg=0.18
+======== SAMPLE 1 ========
+ come to find
+Who you are, baby
+(Last I Butchered)
+I'm Mrs. Oh my God that Britney's shameless
+(Last I Butchered)
+I'm Mrs. Lifestyles of the rich and famous
+(Last I Butchered)
+I'm Mrs. Oh my God that Britney's shameless
+(Last I Butchered)
+I'm Mrs. Crazy as she is
+(Sometimes I run away alone)
+But I'm so glad of you
+(She's so charming)
+To meet you
+(The man in my mirror)
+I'm Mrs. Oh my God that you're
+(In a dream of you and me)
+I'm Mrs. Oh my God that you're
+(In a dream of you and me)
+And all I want is one thing
+(In a dream of you and me)
+And all I want is one thing
+(That my wife of 85 years be here)
+(She's got something to offer us)
+And all I want is one thing
+(That my wife of 85 years be here)
+(She's got something to offer us)
+I'm Mrs. Oh my God that you're
+(In a dream of you and me)
+I'm Mrs. Oh my God that you're
+(In a dream of you and me)
+And all I want is one thing
+(That my wife of 85 years be here)
+And all I want is one thing
+(That my wife of 85 years be here)
+I'm Mrs. Oh my God that you're
+(In a dream of you and me)
+I'm Mrs. Oh my God that you're
+(In a dream of you and me)
+(A little while in the past)
+And all I want is one thing
+(That my wife of 85 years be here)
+And all I want is one thing
+(That my wife of 85 years be here)
+I'm Mrs. Oh my God that you're
+(In a dream of you and me)
+I'm Mrs. Oh my God that you're
+(In a dream of you and me)
+(A little while in the past)
+And all I want is one thing
+(That my wife of 85 years be here)
+And all I want is one thing
+(That my wife of 85 years be here)
+I'm Mrs. Oh my God that you're
+(In a dream of you and me)
+I'm Mrs. Oh my God that you're
+(In a dream of you and me)
+And all I want is one thing
+(That my wife of 85 years be here)
+And all I want is one thing
+(That my wife of 85 years be here)
+Oh my God, you're so unusual
+Oh my God, you're so unusual
+Pleadin with your eyes gonna find a way to make you understand
+But inside, we got it all twisted up for me
+'Cause inside, we got it all twisted up for me
+(Fingers in fingers)
+Even when we could have worked things out
+(Breathe, breathe, oh)
+I want to believe
+That you will be here
+(Let me see it)
+When we could have worked things out
+(Breathe, breathe, oh)
+I want to believe
+That you will be here
+(Let me see it)
+When we could have worked things out
+(Breathe, breathe, oh)
+I want to believe
+That you will be here
+(Let me see it)
+When we could have worked things out
+(Breathe, breathe, oh)
+I want to believe
+That you will be here
+You're gonna have to let me know
+Time to get it
+So time is running out
+Bet you never seem to return
+I'm trying to hide it So I, Conga Ya
+Baby, I'm trying to get it
+But I can't be quick
+I'm trying to hide it All I want is one thing
+Baby, baby, baby
+Baby, baby, baby What ya tryin' to do, do, do
+(I got a plan we can do it just when you want it baby, baby, baby)
+What ya tryin' to do, do, do
+(As long as you want it come with me we can do it baby, baby, baby) I am here to testify
+That you're the only one I belong to
+I don't know where to start
+It turned into an art
+Not to show the world that it was you
+Who made me realize not to compromise
+The fact that you and I should need
+I know we're gonna get, know we're gonna get get Bombastic Love
+So fantastic
+Where I'm completley yours and you are mine
+And It's gonna be exactly
+
+[610 | 1422.53] loss=0.03 avg=0.18
+[620 | 1445.22] loss=0.03 avg=0.17
+[630 | 1467.91] loss=0.03 avg=0.17
+[640 | 1490.61] loss=0.03 avg=0.17
+[650 | 1513.27] loss=0.02 avg=0.16
+[660 | 1535.94] loss=0.03 avg=0.16
+[670 | 1558.58] loss=0.03 avg=0.16
+[680 | 1581.25] loss=0.02 avg=0.15
+[690 | 1603.87] loss=0.02 avg=0.15
+[700 | 1626.49] loss=0.03 avg=0.15
+[710 | 1649.12] loss=0.03 avg=0.15
+[720 | 1671.79] loss=0.03 avg=0.14
+[730 | 1694.40] loss=0.02 avg=0.14
+[740 | 1717.01] loss=0.03 avg=0.14
+[750 | 1739.61] loss=0.02 avg=0.14
+Saving checkpoint/run1/model-750
+[760 | 1764.50] loss=0.02 avg=0.14
+[770 | 1787.19] loss=0.02 avg=0.13
+[780 | 1809.86] loss=0.02 avg=0.13
+[790 | 1832.50] loss=0.02 avg=0.13
+[800 | 1855.07] loss=0.02 avg=0.13
+======== SAMPLE 1 ========
+ a piece of me, yeah
+I'm a slave for you, for you, oh
+Don't know why I feel so insecure
+I never understood what it stood for
+I gotta make up my mind now, oh
+I think I'm ready now, oh
+This life's too big for me, oh
+This life's too big for me, oh
+I guess I need you baby, baby
+I need you baby, baby
+You're toxic, I'm toxic, I need more
+This life's too big, I guess I need you baby, baby
+I'm a slave for you, I'm a slave for you, oh
+Don't know why I feel insecure
+I gotta make up my mind now, oh
+I think I'm ready now, oh
+This life's too big for me, oh
+This life's too big for me, oh
+I guess I need you baby, baby
+I'm a slave for you, I'm a slave for you, oh
+Don't know why I feel insecure
+I gotta make up my mind now, oh
+I think I'm ready now, oh
+This life's too big for me, oh
+This life's too big for me, oh
+I guess I need you baby, baby
+I'm a slave for you, I'm a slave for you, oh
+Don't know why I feel insecure
+I gotta make up my mind now, oh
+I think I'm ready now, oh
+This life's too big for me, oh
+This life's too big for me, oh
+I guess I need you baby, baby
+I'm a slave for you, I'm a slave for you, oh
+Don't know why I feel insecure
+I gotta make up my mind now, oh
+I think I'm ready now, oh
+This life's too big for me, oh
+This life's too big for me, oh
+I guess I need you baby, baby
+(I'm so into you)
+I'm a slave for you, I'm a slave for you, oh
+Don't know why I feel insecure
+I gotta make up my mind now, oh
+I think I'm ready now, oh
+This life's too big for me, oh
+This life's too big for me, oh
+I guess I need you baby, baby
+(This is so)
+I'm a slave for you, I'm a slave for you, oh
+Don't know why I feel insecure
+I gotta make up my mind now, oh
+I think I'm ready now, oh
+This life's too big for me, oh
+This life's too big for me, oh
+I guess I need you baby, baby
+(This is so)
+I'm a slave for you, I'm a slave for you, oh
+Don't know why I feel insecure
+I gotta make up my mind now, oh
+I think I'm ready now, oh
+This life's too big for me, oh
+This life's too big for me, oh
+I guess I need you baby, baby
+(This is so)
+I'm a slave for you, I'm a slave for you, oh
+Don't know why I feel insecure
+I gotta make up my mind now, oh
+I think I'm ready now, oh
+This life's too big for me, oh
+This life's too big for me, oh
+I guess I need you baby, baby
+(This is so)
+I'm a slave for you, I'm a slave for you, oh
+Don't know why I feel insecure
+I gotta make up my mind now, oh
+I think I'm ready now, oh
+This life's too big for me, oh
+This life's too big for me, oh
+I guess I need you baby, baby
+(This is so)
+I'm a slave for you, I'm a slave for you, oh
+Don't know why I feel insecure
+I gotta make up my mind now, oh
+I think I'm ready now, oh
+This life's too big for me, oh
+This life's too big for me, oh
+I guess I need you baby, baby
+(This is so)
+I'm a slave for you, I'm a slave for you, oh
+Don't know why I feel insecure
+I gotta make up my mind now, oh
+I think I'm ready now, oh
+This life's too big for me, oh
+This life's too big for me, oh
+I guess I need you baby, baby
+(This is so)
+I'm a slave for you, I'm a slave for you, oh
+Don't know why I feel insecure
+I gotta make up my mind now, oh
+I think I'm ready now, oh
+This life's too big for me, oh
+This life's too big for me, oh
+I
+
+[810 | 1887.81] loss=0.02 avg=0.13
+[820 | 1910.50] loss=0.02 avg=0.12
+[830 | 1933.20] loss=0.02 avg=0.12
+[840 | 1955.88] loss=0.02 avg=0.12
+[850 | 1978.57] loss=0.02 avg=0.12
+[860 | 2001.22] loss=0.02 avg=0.12
+[870 | 2023.88] loss=0.02 avg=0.11
+[880 | 2046.55] loss=0.02 avg=0.11
+[890 | 2069.22] loss=0.02 avg=0.11
+[900 | 2091.86] loss=0.02 avg=0.11
+[910 | 2114.50] loss=0.02 avg=0.11
+[920 | 2137.13] loss=0.02 avg=0.11
+[930 | 2159.75] loss=0.02 avg=0.11
+[940 | 2182.40] loss=0.02 avg=0.10
+[950 | 2205.00] loss=0.02 avg=0.10
+[960 | 2227.68] loss=0.02 avg=0.10
+[970 | 2250.31] loss=0.02 avg=0.10
+[980 | 2272.94] loss=0.02 avg=0.10
+[990 | 2295.59] loss=0.03 avg=0.10
+[1000 | 2318.25] loss=0.02 avg=0.10
+Saving checkpoint/run1/model-1000
+I never thought it would end
+I was born to make you happy, yeah Oh yeah
+I don't know how to live without your love
+I was born to make you happy
+'Cause your the only one within my heart
+I was born to make you happy Always and forever you and me
+That's the way our life should be
+I don't know how to live without your love
+I was born to make you happy
+I was born to make you happy Always and forever you and me
+That's the way our life should be
+I don't know how to live without your love
+I was born to make you happy Friday, I'm dreaming a mile a minute 'bout somebody
+This feeling, I wanna go with it, 'cause there's no way
+We're hiding away from this tonight, oh, this tonight
+Can tell you want me
+By the way I see you starin' 'cross the room, babe
+No shame in the game
+Just cut the shit, be honest
+Yeah, you know what you gotta do tonight, do tonight
+I just want you to make me move
+Like it ain't a choice for you, like you got a job to do
+Just want you to raise my roof
+Something sensational (sensational, oh yeah)
+And make me ooh, ooh, ooh, ooh
+And make me ooh, ooh, ooh, ooh No rules
+From the bar to the car, let's take it back to my room
+Igniting the heat of the moment, let the sparks fuse
+Blowing up to the ceiling, we're burning bright
+When we cross the line
+'Cause you're the flame I can't do without
+The fire comes in the sapphire sun
+There's no way I'm gonna be fighting this tonight, this tonight
+I just want you to make me move
+Like it ain't a choice for you, like you got a job to do
+Just want you to raise my roof
+Something sensational seansational, oh yeah)
+And make me ooh, ooh, ooh, ooh
+And make me ooh, ooh, ooh, ooh
+Baby, 'cause you're the spark that won't go out
+My heart's on fire when you're around
+Make me ooh, ooh, ooh, ooh
+(Yeah, Eazy) I don't care if it's a random person or the biggest star
+Out in Vegas or little bars
+Really not a difference if it's near or far
+Listen, here we are, need you
+I've always wondered what was off limits
+Staring at you til I'm caught in this
+Back and forth like this was all tennis
+I'm all jealous, you came with someone
+But we could tell that there's changes coming
+See I could tell that you're a dangerous woman
+That means you're speaking my language, come on
+Now follow me, let's go
+Like Penelope in Blow
+Well worth the stealing you, it's a felony, yeah I know
+That's why they keep on telling me to let go, yeah
+But I need you and I can take you
+All the way and I'm able
+To give you something sensational, so let's go, yeah
+Said I need you and I can take you
+All the way and I'm able
+So follow me and I can make you
+And make me ooh (move), ooh, ooh (yeah), ooh
+And make me ooh, ooh, ooh, ooh
+Baby, 'cause you're the spark that won't go out
+My heart's on fire when you're around
+Make me ooh, ooh, ooh, ooh
+Yeah, you make me ooh Confidence is a must
+Cockiness is a plus
+Edginess is a rush
+Edges I like 'em rough
+A man with a Midas touch
+Intoxicate me
+I'm a lush
+Stop you're making me blush
+People are looking at us I don't think you know (Know)
+I'm checking you
+So hot, so hot
+Wonder if you know
+You're on my radar
+(On my radar)
+On my radar
+(On my radar)
+And yep I notice you
+I know it's you
+Choose it, you don't wanna lose it
+You're my radar
+(On my radar)
+On my radar
+(On my radar) And when you walk
+(When you walk)
+And when you talk
+(When you talk)
+I get the tingle
+I wanna mingle
+That's what I want
+(That's what I want) Hey listen baby
+Turn up the fader
+Tryna to make you understand
+You're on my radar
+(On my radar)
+On my radar
